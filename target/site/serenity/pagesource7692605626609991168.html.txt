@@ -1,0 +1,1598 @@
+<html lang="es" class="lc-cb-container-vi"><head>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-52C4RGM"></script><script src="https://connect.facebook.net/signals/config/573212689454765?v=2.9.48&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+    var require = {
+        "baseUrl": "https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR"
+    };
+</script>
+<meta charset="utf-8">
+<meta name="description" content="DKS. Tienda online de diseño donde puedes descubrir objetos increíbles en decoración, muebles, accesorios y regalos. Entregas a domicilio a toda Colombia.">
+<meta name="keywords" content="DKS, tienda de decoración, tienda online, tienda de diseño, decoracion, muebles, regalos">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="google-site-verification" content="AlFQAwbjsAKFs3SikVNYU9hkCNiatjtfmPTh1Pn1KDY">
+<title>DEKOSAS | DKS Tienda Online de Diseño | Decoración y Regalos</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/css/styles-m.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/bootstrap/css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/owl.carousel/assets/owl.carousel.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/css/animate.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/icon-fonts/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/css/custom.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Lof_All/css/fix_magento2.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Amasty_Base/vendor/slick/amslick.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Amasty_Affiliate/css/default.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Countdown/css/jquery.countdownTimer.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Filterproducts/css/filterproducts.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Zozothemes/css/fancybox/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Zozothemes/css/fancybox/jquery.fancybox-buttons.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Zozothemes/css/fancybox/jquery.fancybox-thumbs.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Zozothemes/css/fullpagescroller/jquery.fullpage.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/NexusW_DekosasIA/slick/slick.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/NexusW_DekosasIA/slick/slick-theme.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/NexusW_DekosasIA/css/dekosasia.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Webkul_Marketplace/css/wk_block.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Webkul_Marketplace/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Webkul_Marketplace/css/product.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Webkul_Marketplace/css/layout.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Mageplaza_SocialLogin/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Mageplaza_Core/css/grid-mageplaza.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Mageplaza_Core/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Mageplaza_Core/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/css/styles-l.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/css/print.css">
+<script type="text/javascript" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/requirejs/require.js"></script>
+<script type="text/javascript" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/requirejs-config.js"></script>
+<script type="text/javascript" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Custom_City/js/city.js"></script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="icon" type="image/x-icon" href="https://dekosas.com/co/pub/media/favicon/stores/1/DKS2.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://dekosas.com/co/pub/media/favicon/stores/1/DKS2.png">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
+<style>
+html{ font-family: 'Ubuntu', sans-serif !important;}
+body{ font-family: 'Ubuntu', sans-serif !important;}
+p{ font-family: 'Ubuntu', sans-serif !important;}
+h1,h2,h3,h4,h5,h6{ font-family: 'Ubuntu', sans-serif !important;}
+.h1,.h2,.h3,.h4,.h5,.h6{ font-family: 'Ubuntu', sans-serif !important;}
+input,,select,textarea,button{ font-family: 'Ubuntu', sans-serif !important;}
+.footer-top p{ font-size:14px !important;}
+ul li{ font-family: 'Ubuntu', sans-serif !important;}
+ol li{ font-family: 'Ubuntu', sans-serif !important;}
+input[type="text"], input[type="password"], input[type="url"], input[type="tel"], input[type="search"], input[type="number"], input[type="datetime"], input[type="email"]{ font-family: 'Ubuntu', sans-serif !important;}
+.action.primary, a.action.primary, button.action.primary{ font-family: 'Ubuntu', sans-serif !important;}
+.breadcrumbs{padding-top: 30px;}
+@media screen and (max-width: 767px){
+.section-item-content{display:none;}
+.nav-sections-items .section-item-content{display:block;}
+header.page-header .section-items.nav-sections-items {  float: left;  width: 33.333% !important; position: initial !important;}
+header.page-header .nav-sections-item-title{ width: 33.333% !important;}
+header.page-header .section-items.nav-sections-items .section-item-title {  width: 100% !important;}
+header.page-header .section-items .nav-sections-item-content { position: absolute;  top: 0;  z-index: 1; margin-left:0px !important; left: 0; width: 100% !important; margin-right: 0px !important;}
+header.page-header .mobile-search .block-search .control input{color:#333;}
+}
+@media screen and (max-width:768px){ header{padding-top: 10px;} }
+</style>
+
+<script type="text/javascript">var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var fc_isSecured = (window.location && window.location.protocol == 'https:');var fc_lang = document.getElementsByTagName('html')[0].getAttribute('lang'); var fc_rtlLanguages = ['ar','he']; var fc_rtlSuffix = (fc_rtlLanguages.indexOf(fc_lang) >= 0) ? '-rtl' : '';fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((fc_isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor'+fc_rtlSuffix+'.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript'; fc_JS.defer=true;fc_JS.src=((fc_isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.livechat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJkZWtvc2FzLmZyZXNoZGVzay5jb20iLCJwcm9kdWN0X2lkIjpudWxsLCJuYW1lIjoiRWwgY2xpZW50ZSBlcyBlbCBmb2NvIHBhcmEgREVLT1NBUyIsIndpZGdldF9leHRlcm5hbF9pZCI6bnVsbCwid2lkZ2V0X2lkIjoiNzFkZjkxYTMtNjcwMS00NTY1LWJiZDQtMDdjNzBjYjg3ZTgxIiwic2hvd19vbl9wb3J0YWwiOnRydWUsInBvcnRhbF9sb2dpbl9yZXF1aXJlZCI6ZmFsc2UsImxhbmd1YWdlIjpudWxsLCJ0aW1lem9uZSI6bnVsbCwiaWQiOjYwMDAwMzM1NTYsIm1haW5fd2lkZ2V0IjoxLCJmY19pZCI6IjUzMjM5OThkNTBlYTBiYTEwYTczMGJkOGMxZmEyZWYzIiwic2hvdyI6MSwicmVxdWlyZWQiOjIsImhlbHBkZXNrbmFtZSI6ImRla29zYXMiLCJuYW1lX2xhYmVsIjoiTm9tYnJlIiwibWVzc2FnZV9sYWJlbCI6Ik1lbnNhamUiLCJwaG9uZV9sYWJlbCI6IlRlbMOpZm9ubyIsInRleHRmaWVsZF9sYWJlbCI6IkNhbXBvIGRlIHRleHRvIiwiZHJvcGRvd25fbGFiZWwiOiJNZW7DuiBkZXNwbGVnYWJsZSIsIndlYnVybCI6ImRla29zYXMuZnJlc2hkZXNrLmNvbSIsIm5vZGV1cmwiOiJjaGF0LmZyZXNoZGVzay5jb20iLCJkZWJ1ZyI6MSwibWUiOiJZbyIsImV4cGlyeSI6MCwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwiZW5kX2NoYXRfdGhhbmtfbXNnIjoiwqFHcmFjaWFzISIsImVuZF9jaGF0X2VuZF90aXRsZSI6IkZpbmFsaXphY2nDs24iLCJlbmRfY2hhdF9jYW5jZWxfdGl0bGUiOiJDYW5jZWxhciIsInNpdGVfaWQiOiI1MzIzOTk4ZDUwZWEwYmExMGE3MzBiZDhjMWZhMmVmMyIsImFjdGl2ZSI6MSwicm91dGluZyI6bnVsbCwicHJlY2hhdF9mb3JtIjoxLCJidXNpbmVzc19jYWxlbmRhciI6bnVsbCwicHJvYWN0aXZlX2NoYXQiOjEsInByb2FjdGl2ZV90aW1lIjoxODAsInNpdGVfdXJsIjoiZGVrb3Nhcy5mcmVzaGRlc2suY29tIiwiZXh0ZXJuYWxfaWQiOm51bGwsImRlbGV0ZWQiOjAsIm1vYmlsZSI6MSwiYWNjb3VudF9pZCI6bnVsbCwiY3JlYXRlZF9hdCI6IjIwMTUtMDktMjFUMTU6NTI6MzAuMDAwWiIsInVwZGF0ZWRfYXQiOiIyMDE4LTA1LTAxVDIwOjAwOjI0LjAwMFoiLCJjYkRlZmF1bHRNZXNzYWdlcyI6eyJjb2Jyb3dzaW5nX3N0YXJ0X21zZyI6IllvdXIgc2NyZWVuc2hhcmUgc2Vzc2lvbiBoYXMgc3RhcnRlZCIsImNvYnJvd3Npbmdfc3RvcF9tc2ciOiJZb3VyIHNjcmVlbnNoYXJpbmcgc2Vzc2lvbiBoYXMgZW5kZWQiLCJjb2Jyb3dzaW5nX2RlbnlfbXNnIjoiWW91ciByZXF1ZXN0IHdhcyBkZWNsaW5lZCIsImNvYnJvd3NpbmdfYWdlbnRfYnVzeSI6IkFnZW50IGlzIGluIHNjcmVlbiBzaGFyZSBzZXNzaW9uIHdpdGggY3VzdG9tZXIiLCJjb2Jyb3dzaW5nX3ZpZXdpbmdfc2NyZWVuIjoiWW91IGFyZSB2aWV3aW5nIHRoZSB2aXNpdG9y4oCZcyBzY3JlZW4gIiwiY29icm93c2luZ19jb250cm9sbGluZ19zY3JlZW4iOiJZb3UgaGF2ZSBhY2Nlc3MgdG8gdmlzaXRvcuKAmXMgc2NyZWVuICIsImNvYnJvd3NpbmdfcmVxdWVzdF9jb250cm9sIjoiUmVxdWVzdCB2aXNpdG9yIGZvciBzY3JlZW4gYWNjZXNzICIsImNvYnJvd3NpbmdfZ2l2ZV92aXNpdG9yX2NvbnRyb2wiOiJHaXZlIGFjY2VzcyBiYWNrIHRvIHZpc2l0b3IgIiwiY29icm93c2luZ19zdG9wX3JlcXVlc3QiOiJFbmQgeW91ciBzY3JlZW5zaGFyaW5nIHNlc3Npb24iLCJjb2Jyb3dzaW5nX3JlcXVlc3RfY29udHJvbF9yZWplY3RlZCI6IllvdXIgcmVxdWVzdCB3YXMgZGVjbGluZWQiLCJjb2Jyb3dzaW5nX2NhbmNlbF92aXNpdG9yX21zZyI6IlNjcmVlbnNoYXJpbmcgaXMgY3VycmVudGx5IHVuYXZhaWxhYmxlIiwiY29icm93c2luZ19hZ2VudF9yZXF1ZXN0X2NvbnRyb2wiOiJBZ2VudCBpcyByZXF1ZXN0aW5nIGFjY2VzcyB0byB5b3VyIHNjcmVlbiIsImNiX3ZpZXdpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgY2FuIHZpZXcgeW91ciBzY3JlZW4gIiwiY2JfY29udHJvbGxpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgaGFzIGFjY2VzcyB0byB5b3VyIHNjcmVlbiAiLCJjYl92aWV3X21vZGVfc3VidGV4dCI6IllvdXIgYWNjZXNzIHRvIHRoZSBzY3JlZW4gaGFzIGJlZW4gd2l0aGRyYXduICIsImNiX2dpdmVfY29udHJvbF92aSI6IkFsbG93IGFnZW50IHRvIGFjY2VzcyB5b3VyIHNjcmVlbiAiLCJjYl92aXNpdG9yX3Nlc3Npb25fcmVxdWVzdCI6IkFnZW50IHNlZWtzIGFjY2VzcyB0byB5b3VyIHNjcmVlbiAifX0=';</script>
+
+<script async="async" type="text/javascript" src="https://hub.fromdoppler.com/public/dhtrack.js"></script>
+<script src="https://www.dekosas.com/co/nexusw.js" type="text/javascript"></script><script type="text/javascript"> document.addEventListener('DOMContentLoaded', function() {w('123');}, false);</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "Organization",
+    "url": "https:\/\/dekosas.com\/co\/",
+    "logo": "https:\/\/dekosas.com\/co\/pub\/media\/logo\/stores\/1\/micro_logo.png",
+    "name": "DEKOSAS.com",
+    "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "+573046164273",
+            "contactType": "customer service",
+            "contactOption": "servicioalcliente@dekosas.com",
+            "areaServed": "Servicio al cliente"
+        },
+        {
+            "@type": "ContactPoint",
+            "telephone": "+573046164273",
+            "contactType": "technical support",
+            "contactOption": "info@dekosas.com",
+            "areaServed": "Informaci\u00f3n"
+        },
+        {
+            "@type": "ContactPoint",
+            "telephone": "+573125112349",
+            "contactType": "sales",
+            "contactOption": "comercial@dekosas.com",
+            "areaServed": "Comercial"
+        }
+    ],
+    "sameAs": [
+        "https:\/\/www.facebook.com\/DekosasLatam",
+        "https:\/\/www.instagram.com\/dekosas\/?hl=es-la",
+        "https:\/\/www.youtube.com\/channel\/UCBTbz-juRFEnrsYXhhkiGFw",
+        "https:\/\/www.linkedin.com\/company\/vivexcel-sas-giferent\/"
+    ]
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org",
+    "@type": "WebSite",
+    "url": "https:\/\/dekosas.com\/co\/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/dekosas.com\/co\/catalogsearch\/result\/?q={searchbox_target}",
+        "query-input": "required name=searchbox_target"
+    }
+}</script>
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-37023202-1" type="text/javascript"></script>
+<script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('set', {'currency': 'COP'});
+        gtag('set', {'link_attribution': true});
+        gtag('set', {'anonymize_ip': false});
+        gtag('set', {'allow_ad_personalization_signals': true});
+                gtag('config', 'UA-37023202-1');
+            </script>
+
+
+<script type="text/javascript">
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '573212689454765');
+        fbq('track', "PageView");
+    </script>
+<noscript>
+        <img height="1" width="1" style="display:none"
+                   alt="Facebook Pixel"
+                   src="https://www.facebook.com/tr?id=573212689454765&ev=PageView&noscript=1"/>
+    </noscript>
+
+
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52C4RGM');</script>
+
+<style>
+    #social-login-popup .social-login-title {
+        background-color: #6e716e    }
+
+    #social-login-popup .social-login #bnt-social-login-authentication,
+    #social-login-popup .forgot .primary button,
+    #social-login-popup .create .primary button,
+    #social-login-popup .fake-email .primary button {
+        background-color: #6e716e;
+        border: #6e716e    }
+
+    .block.social-login-authentication-channel.account-social-login .block-content {
+        text-align: center;
+    }
+
+    
+                    #bnt-social-login-fake-email {
+                    background-color: grey !important;
+                    border: grey !important;
+                    }
+
+                    #request-popup .social-login-title {
+                    background-color: grey !important;
+                    }
+                
+    /* Compatible ETheme_YOURstore*/
+    div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login {
+        max-width: 900px !important;
+        margin: 0 auto !important;
+    }
+
+    div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login .block-content {
+        text-align: center;
+    }
+
+    @media (max-width: 1024px) {
+        div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login .block-content {
+            padding: 0 15px;
+        }
+    }
+</style>
+<script type="text/javascript">
+    require.config({
+        map: {
+            '*': {
+                'quickSearch-original' : 'Magento_Search/form-mini',
+                'quickSearch' : 'Amasty_Xsearch/js/form-mini'
+            }
+        }
+    });
+</script>
+<link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.mobile.custom" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery/jquery.mobile.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dataPost" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/dataPost.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/bootstrap" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate-inline" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/translate-inline.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/responsive" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Theme/js/responsive.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/theme" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Theme/js/theme.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/translate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Amasty_Xsearch/js/form-mini" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Amasty_Xsearch/js/form-mini.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Amasty_Xsearch/js/searchClick" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Amasty_Xsearch/js/searchClick.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Micro_Megamenu/js/zozo_megamenu" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Micro_Megamenu/js/zozo_megamenu.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="NexusW_DekosasIA/slick/slick.min" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/NexusW_DekosasIA/slick/slick.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/mage" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/mage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.cookie" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/template" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/confirm" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/modal/confirm.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/main" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/apply/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bootstrap" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/knockout/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/common" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-migrate" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery/jquery-migrate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery/jquery-ui.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/smart-keyboard-handler" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/smart-keyboard-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/ie-class-fixer" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/ie-class-fixer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/tabs" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/tabs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchMedia" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/matchMedia.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/underscore.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Search/form-mini" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Search/form-mini.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/cookies" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/cookies.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-storageapi" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/jquery/jquery.storageapi.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/modal" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/modal/modal.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/knockoutjs/knockout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-es5" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/knockoutjs/knockout-es5.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/engine" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/knockout/template/engine.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bootstrap" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/knockout/bindings/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/observable_array" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/knockout/extender/observable_array.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/bound-nodes" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/knockout/extender/bound-nodes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/scripts" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/apply/scripts.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/collapsible" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/requirejs/text.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/key-codes" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/key-codes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-repeat" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/knockoutjs/knockout-repeat.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-fast-foreach" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/knockoutjs/knockout-fast-foreach.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/wrapper" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/mage/utils/wrapper.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/events" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Magento_Ui/js/lib/core/events.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="es6-collections" src="https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/es6-collections.js"></script></head>
+<body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/images/loader-2.gif&quot;}}" class="cms-micro-home-2 cms-index-index page-layout-1column">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic,latin-ext" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/media/micro/configed_css/design_default.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://dekosas.com/co/pub/media/micro/configed_css/settings_default.css">
+<script type="text/javascript">
+    require(['jquery'], function(){
+        jQuery(function($){
+			$(window).load(function() {
+            $("body").addClass("layout-1170");
+            $("body").addClass("wide");
+            			});
+            var breadcrumb_pos_top = 0;
+            $(window).scroll(function(){
+            if(!$("body").hasClass("page-wrapper")){
+                var side_header_height = $(".page-header.type8").innerHeight();
+                var window_height = $(window).height();
+                if(side_header_height-window_height<$(window).scrollTop()){
+                    if(!$(".page-header.type8").hasClass("fixed-bottom"))
+                        $(".page-header.type8").addClass("fixed-bottom");
+                }
+                if(side_header_height-window_height>=$(window).scrollTop()){
+                    if($(".page-header.type8").hasClass("fixed-bottom"))
+                        $(".page-header.type8").removeClass("fixed-bottom");
+                }
+            }
+            if($("body.side-header .page-wrapper > .breadcrumbs").length){
+                if(!$("body.side-header .page-wrapper > .breadcrumbs").hasClass("fixed-position")){
+                    breadcrumb_pos_top = $("body.side-header .page-wrapper > .breadcrumbs").offset().top;
+                    if($("body.side-header .page-wrapper > .breadcrumbs").offset().top<$(window).scrollTop()){
+                        $("body.side-header .page-wrapper > .breadcrumbs").addClass("fixed-position");
+                    }
+                }else{
+                    if($(window).scrollTop()<=1){
+                        $("body.side-header .page-wrapper > .breadcrumbs").removeClass("fixed-position");
+                    }
+                }
+            }
+        });
+        $(window).load(function() {
+        var s_width = $(window).innerWidth();
+        var s_height = $(window).innerHeight();
+        var s_ratio = s_width/s_height;
+        var v_width=320;
+        var v_height=240;
+        var v_ratio = v_width/v_height;
+        $(".full-screen-slider div.item").css("position","relative");
+        $(".full-screen-slider div.item").css("overflow","hidden");
+        $(".full-screen-slider div.item").width(s_width);
+        $(".full-screen-slider div.item").height(s_height);
+        $(".full-screen-slider div.item > video").css("position","absolute");
+        $(".full-screen-slider div.item > video").bind("loadedmetadata",function(){
+            v_width = this.videoWidth;
+            v_height = this.videoHeight;
+            v_ratio = v_width/v_height;
+            if(s_ratio>=v_ratio){
+                $(this).width(s_width);
+                $(this).height("");
+                $(this).css("left","0px");
+                $(this).css("top",(s_height-s_width/v_width*v_height)/2+"px");
+            }else{
+                $(this).width("");
+                $(this).height(s_height);
+                $(this).css("left",(s_width-s_height/v_height*v_width)/2+"px");
+                $(this).css("top","0px");
+            }
+            $(this).get(0).play();
+        });
+        if($(".page-header").hasClass("type8")) {
+            if(s_width >= 992){
+                $(".navigation").addClass("side-megamenu");
+            } else {
+                $(".navigation").removeClass("side-megamenu");
+            }
+        }
+		});
+        $(window).resize(function(){
+            s_width = $(window).innerWidth();
+            s_height = $(window).innerHeight();
+            s_ratio = s_width/s_height;
+            $(".full-screen-slider div.item").width(s_width);
+            $(".full-screen-slider div.item").height(s_height);
+            $(".full-screen-slider div.item > video").each(function(){
+                if(s_ratio>=v_ratio){
+                    $(this).width(s_width);
+                    $(this).height("");
+                    $(this).css("left","0px");
+                    $(this).css("top",(s_height-s_width/v_width*v_height)/2+"px");
+                }else{
+                    $(this).width("");
+                    $(this).height(s_height);
+                    $(this).css("left",(s_width-s_height/v_height*v_width)/2+"px");
+                    $(this).css("top","0px");
+                }
+            });
+            if($(".page-header").hasClass("type8")) {
+                if(s_width >= 992){
+                    $(".navigation").addClass("side-megamenu");
+                } else {
+                    $(".navigation").removeClass("side-megamenu");
+                }
+            }
+        });		
+		$(window).load(function() {
+var amountsone = $(".page-main .price-final_price").find(".special-price span.price-wrapper").data("price-amount");
+if(amountsone){
+var priceamountr = $(".page-main .product-info-price").find("span.old-price span.price-wrapper").data("price-amount");
+		var getp = parseInt(priceamountr, 10) - parseInt(amountsone, 10);
+		var getpercent = (getp / priceamountr) * 100;
+		var getpercentn = getpercent.toString();
+		var res = getpercentn.split(".");
+		$(".page-main .media").find(".gallerydiscountper").prepend("<div class='getpercentprice1'>-"+res[0]+"%</div>");
+		}		
+});	
+$('.checkout-cart-index .checkout-methods-items button.checkout').click(function() {
+window.location.href = "http://64.37.63.178/~dekosas/co/checkout/";	
+});
+$('.page-wrapper .section-item-title').click(function() {
+$('.page-wrapper .section-item-title').removeClass('active');	
+$(this).addClass('active');
+$('.page-wrapper .section-item-content').hide();
+$(this).next().show();
+});	
+});
+});
+</script> 
+
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52C4RGM"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+
+<script type="text/javascript">
+            dataLayer.push({"dynx_itemid":"0","dynx_pagetype":"home","dynx_totalvalue":"0","ecommerce":{"currencyCode":"COP"}});
+        </script>
+
+<script type="text/javascript">
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
+        }
+
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
+
+                function createCookie(name, value, days) {
+                    var date, expires;
+
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
+
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
+
+                    for (i=0; i < ca.length; i++) {
+                        c = ca[i];
+
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
+
+                    return null;
+                }
+
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
+
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
+
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
+
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
+
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
+
+                    return 'sessionStorage' + window.name;
+                }
+
+                data = getData();
+
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
+
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
+
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
+
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorage = new Storage('session');
+        })();
+    }
+</script>
+<script type="text/javascript">
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== '76b20bf81b17fa69948e4d93f0f7956a3a0aebd3') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '76b20bf81b17fa69948e4d93f0f7956a3a0aebd3'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/co",
+                "domain": ".dekosas.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+<noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>Parece que JavaScript está deshabilitado en su navegador.</strong>
+                    <span>Para la mejor experiencia en nuestro sitio web, asegúrese de activar Javascript en su navegador.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_GoogleAnalytics/js/google-analytics": {
+            "isCookieRestrictionModeEnabled": 0,
+            "currentWebsite": 1,
+            "cookieName": "user_allowed_save_cookie",
+            "ordersTrackingData": [],
+            "pageTrackingData": {"optPageUrl":"","isAnonymizedIpActive":"0","accountId":"UA-37023202-1"}        }
+    }
+}
+</script>
+
+<div class="widget block block-static-block">
+</div>
+<div class="page-wrapper page"><header class="page-header normal-header type2 typeNexusW">
+<div class="header content">
+<span data-action="toggle-nav" class="action nav-toggle"><span>navegación de palanca</span></span>
+<strong class="logo">
+<img src="https://dekosas.com/co/pub/media/logo/stores/1/micro_logo.png" alt="DEKOSAS">
+</strong>
+<div data-block="minicart" class="minicart-wrapper">
+<a class="action showcart" href="https://dekosas.com/co/checkout/cart/" data-bind="scope: 'minicart_content'">
+<span class="text">Mi carrito</span>
+<span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+<!-- ko if: getCartParam('summary_count') -->
+<span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+<!-- /ko -->
+<!-- ko ifnot: getCartParam('summary_count') -->
+<span class="counter-number">0</span>
+<!-- /ko -->
+<span class="counter-label">
+<!-- ko if: getCartParam('summary_count') -->
+<!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+<!-- ko i18n: 'items' --><!-- /ko -->
+<!-- /ko -->
+</span>
+</span>
+</a>
+<div class="block block-minicart empty" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;,
+                &quot;triggerTarget&quot;:&quot;.showcart&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+<div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+<!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+</div>
+<script type="text/javascript">
+        window.checkout = {"shoppingCartUrl":"https:\/\/dekosas.com\/co\/checkout\/cart\/","checkoutUrl":"https:\/\/dekosas.com\/co\/checkout\/","updateItemQtyUrl":"https:\/\/dekosas.com\/co\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/dekosas.com\/co\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/dekosas.com\/co\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":100,"customerLoginUrl":"https:\/\/dekosas.com\/co\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"on","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/dekosas.com\/co\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/dekosas.com\/co\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+<script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/images/loader-1.gif"
+        }
+    }
+    </script>
+</div>
+<div class="block block-search">
+<div class="block block-title"><strong>Buscar</strong></div>
+<div class="block block-content">
+<form class="form minisearch" id="search_mini_form" action="https://dekosas.com/co/catalogsearch/result/" method="get">
+<div class="field search">
+<label class="label" for="search" data-role="minisearch-label">
+<span>Buscar</span>
+</label>
+<div class="control">
+<input id="search" data-mage-init="{&quot;quickSearch&quot;:{
+                                &quot;formSelector&quot;:&quot;#search_mini_form&quot;,
+                                &quot;url&quot;:&quot;https://dekosas.com/co/search/ajax/suggest/&quot;,
+                                &quot;destinationSelector&quot;:&quot;#search_autocomplete&quot;}
+                           }" type="text" name="q" value="" placeholder="Buscar en toda la tienda..." class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+<div id="search_autocomplete" class="search-autocomplete"></div>
+<div class="nested">
+<a class="action advanced" href="https://dekosas.com/co/catalogsearch/advanced/" data-action="advanced-search">
+Búsqueda avanzada </a>
+</div>
+<script type="text/javascript">
+    require([
+        'Amasty_Xsearch/js/form-mini',
+        'Amasty_Xsearch/js/searchClick'
+    ], function (autoComplete, searchClick) {
+        'use strict';
+        window.xsearch_options = {"url":"https:\/\/dekosas.com\/co\/amasty_xsearch\/autocomplete\/index\/","isDynamicWidth":"1","width":"400","minChars":3,"currentUrlEncoded":"aHR0cHM6Ly9kZWtvc2FzLmNvbS9jby8,"};
+        searchClick.init('https://dekosas.com/co/amasty_xsearch/product/click/');
+    })
+</script>
+</div>
+</div>
+<div class="actions">
+<button type="submit" title="Buscar" class="action search">
+<span>Buscar</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+<div class="my-account zozo-login">
+<ul class="header links list-inline">
+<li class="authorization-link" data-label="0">
+<a href="#social-login-popup" class="account-label social-login-btn" data-effect="mfp-move-from-top">My Account</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="sections nav-sections">
+<div class="section-items nav-sections-items" data-mage-init="{&quot;tabs&quot;:{&quot;openedState&quot;:&quot;active&quot;}}">
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menú</a>
+</div>
+<div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content">
+<nav class="navigation zozo-megamenu " role="navigation">
+<ul>
+<li class="ui-menu-item level0">
+<a href="https://dekosas.com/co/nuevos?product_list_order=created_at" class="level-top"><span>Novedades</span></a>
+</li>
+<li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios" class="level-top"><span>Muebles</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/sala"><span>Sala</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/sofas-modernos-sala"><span>Sofás Modernos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/repisas"><span>Repisas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/mesas-auxiliares"><span>Mesas Auxiliares</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/mesas-de-centro"><span>Mesas de Centro</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/muebles-para-televisor-tv"><span>Muebles para Televisor TV</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/poltronas"><span>Poltronas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/puffs"><span>Puffs</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/biombos"><span>Biombos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/zapateros"><span>Zapateros</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/sofas-en-l"><span>Sofás en L</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/sofas-3-puestos"><span>Sofás 3 Puestos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/sofas-2-puestos"><span>Sofás 2 Puestos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/sofa-camas"><span>Sofá Camas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sala/combos-sala"><span>Combos Sala</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/sillas"><span>Sillas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas-de-comedor"><span>Sillas de Comedor</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas-de-bar"><span>Sillas de Bar</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas"><span>Sillas Auxiliares</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas-reclinables"><span>Sillas Reclinables</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas-de-escritorio"><span>Sillas de Escritorio</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/sillas/sillas-de-exterior"><span>Sillas de Exterior</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor"><span>Comedor Y Cocina</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/comedores"><span>Comedores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/comedores-modernos"><span>Mesas de Comedor</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/butacos-de-madera"><span>Butacos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/cocinas"><span>Cocinas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/alacenas"><span>Alacenas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-comedor/bares"><span>Bares</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/habitacion"><span>Habitación</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/mesas-de-noche-modernas"><span>Mesas de Noche</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/comodas"><span>Cómodas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/armarios"><span>Armarios</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/camas-cabeceros"><span>Camas y Cabeceros</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/colchones"><span>Colchones</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/ba-o"><span>Baño</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/habitacion/combos-habitacion"><span>Combos Habitación</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/muebles-estudio"><span>Estudio</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-estudio/escritorios-modernos"><span>Escritorios</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-estudio/bibliotecas-de-madera"><span>Bibliotecas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-estudio/combos-estudio"><span>Combos Estudio</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-exterior"><span>Muebles para Exterior</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-exterior/asoleadoras-y-mecedoras"><span>Asoleadoras y Mecedoras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/muebles-accesorios/muebles-para-exterior/bancas-de-jardin"><span>Bancas de Jardín</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas" class="level-top"><span>Decoración</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes"><span>Wall Decor</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/vinilos-decorativos-adhesivos"><span>Vinilos Decorativos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/cuadros-modernos"><span>Cuadros</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/cuadros-calados"><span>Cuadros Calados</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/taxidermy"><span>Taxidermy</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/relojes-de-pared"><span>Relojes de Pared</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/percheros-de-pared"><span>Percheros</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/papel-colgadura-tapiz"><span>Papel de Colgadura</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras"><span>Tapetes</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras/tapetes-para-sala"><span>Tapetes para Sala</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras/tapetes-para-bano"><span>Tapetes para Baño</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras/tapetes-para-habitacion"><span>Tapetes para Habitación</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras/tapetes-de-cocina"><span>Tapetes de Cocina</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras/tapetes-de-entrada"><span>Tapetes de Entrada</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos"><span>Objetos Decorativos</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/cojines-salas-cama"><span>Cojines Decorativos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/decoracion-salas-comedores"><span>Accesorios para Sala</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/marcos-portaretratos"><span>Marcos y Portaretratos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/relojes-de-mesa"><span>Relojes de Mesa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/trancapuertas"><span>Trancapuertas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/difusores"><span>Difusores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/canastos"><span>Canastos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/espejos"><span>Espejos</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria"><span>Lencería para el Hogar</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/plumones"><span>Plumones</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/juego-sabanas-para-cama"><span>Sábanas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/duvets-edredon-colchas"><span>Duvets - Colchas y Edredones</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/mantas-y-cobijas"><span>Mantas y Cobijas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/protectores-de-colchon"><span>Protectores de Colchón</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/almohadas"><span>Almohadas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/toallas"><span>Toallas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/tapices"><span>Tapices</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa"><span>Ropa de Mesa</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa/manteles"><span>Manteles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa/caminos-de-mesa"><span>Caminos de Mesa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa/individuales-y-portavasos"><span>Individuales y Portavasos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa/servilleteros"><span>Servilleteros</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/ropa-de-mesa/servilletas"><span>Servilletas</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas"><span>Plantas Decorativas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas/materas-de-pared"><span>Materas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas/portamateras"><span>Portamateras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas/terrarios-colgantes"><span>Terrarios</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas/plantas"><span>Plantas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/plantas-decorativas/todo-para-tus-plantas"><span>Todo Para Tus Plantas</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/habitaciones-y-banos"><span>Habitaciones y Baños</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/habitaciones-y-banos/accesorios-para-bano"><span>Accesorios para Baño</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/habitaciones-y-banos/organizadores-de-closet"><span>Organizadores de Closet</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/cortinas-persianas-modernas"><span>Cortinas y Persianas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/cortinas-persianas-modernas/cortinas"><span>Cortinas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/cortinas-persianas-modernas/persianas"><span>Persianas</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad"><span>Decoración de Navidad</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/arboles-de-navidad"><span>Árboles de Navidad</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/luces-navidenas"><span>Luces Navideñas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/decoracion-para-arboles-de-navidad"><span>Decoración para Árboles de Navidad</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/alfombras-y-tapetes-navidenos"><span>Alfombras y Tapetes Navideños</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/ropa-de-cama-navidena"><span>Ropa de Cama Navideña</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/individuales-y-caminos-de-mesa-navidenos"><span>Individuales y Caminos de Mesa Navideños</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/servilleteros-navidenos"><span>Servilleteros Navideños</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/decoracion-navidena-para-sala"><span>Decoración Navideña para Sala</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/fundas-de-cojin-navidenas"><span>Fundas de Cojín Navideñas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/decoracion-navidena-para-cocina"><span>Decoración Navideña Para Cocina</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/decoracion-navidena-para-bano"><span>Decoración Navideña Para Baño</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/decoracion-navidena-para-exteriores"><span>Decoración Navideña Para Exteriores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-navidad/coronas-navidenas-para-puerta"><span>Coronas Navideñas Para Puerta</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/iluminacion" class="level-top"><span>Iluminación</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/iluminacion/lamparas-modernas-iluminacion"><span>Lámparas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/lamparas-modernas-iluminacion/lamparas-de-techo"><span>Lámparas de Techo</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/lamparas-modernas-iluminacion/lamparas-de-pie"><span>Lámparas de Pie y Mesa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/lamparas-modernas-iluminacion/lamparas-de-exterior"><span>Lámparas de Exterior</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/iluminacion/estilos"><span>Estilos</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/lamparas-vintage"><span>Lámparas Vintage</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/lamparas-industriales"><span>Lámparas Industriales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/lamparas-artesanales"><span>Lámparas Artesanales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/lamparas-clasicas"><span>Lámparas Clásicas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/luminarias-de-pared"><span>Luminarias de Pared</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/apliques"><span>Apliques</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/estilos/velas-y-candelabros"><span>Velas y Candelabros</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/iluminacion/espacios"><span>Espacios</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/espacios/lamparas-para-mesas-de-noche"><span>Lámparas para Mesas de Noche</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/espacios/lamparas-colgantes-para-comedor"><span>Lámparas Colgantes para Comedor</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/iluminacion/espacios/lamparas-de-escritorio"><span>Lámparas de Escritorio</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina" class="level-top"><span>Cocina</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina"><span>Utensilios de Cocina</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/accesorios-para-servir"><span>Accesorios para Servir</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/ollas-y-sartenes"><span>Ollas y Sartenes</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/escurridores"><span>Escurridores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/portacalientes"><span>Portacalientes</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/almacenadores-de-cocina"><span>Almacenadores de Cocina</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/utensilios-de-cocina/refractarias-moldes-y-utensilios-de-reposteria"><span>Refractarias, Moldes y Utensilios de Repostería</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-de-cocina"><span>Accesorios De Cocina</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-de-cocina/lavaplatos"><span>Lavaplatos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-de-cocina/campanas"><span>Campanas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-de-cocina/placas-de-coccion"><span>Placas de Cocción</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina/para-tu-mesa"><span>Para tu Mesa</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/para-tu-mesa/vajillas-platos-pocillos"><span>Vajillas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/para-tu-mesa/vajillas-artesanales"><span>Vajillas Artesanales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/para-tu-mesa/juego-cubiertos-cuchillos-tenedores-cucharas"><span>Cubiertos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/para-tu-mesa/cristaleria-copas-vasos"><span>Cristalería</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-bar"><span>Accesorios Para Bar</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-bar/accesorios-para-vino"><span>Accesorios Para Vino</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-bar/gasificadoras"><span>Gasificadoras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-bar/accesorios-pequenos"><span>Accesorios Pequeños</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-bar/accesorios-para-cocteleria"><span>Accesorios Para Coctelería</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-cafe-y-te"><span>Accesorios Para Café Y Té</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-cafe-y-te/cafeteras"><span>Cafeteras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-cafe-y-te/mugs"><span>Mugs</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-cafe-y-te/teteras"><span>Teteras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/mesa-y-cocina/accesorios-para-cafe-y-te/infusores"><span>Infusores</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil" class="level-top"><span>Infantil</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil"><span>Decoración Infantil</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/vinilos-infantiles-decorativos"><span>Vinilos Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/cuadros-infantiles"><span>Cuadros Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/tapetes-infantiles"><span>Tapetes Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/duvets-y-plumones-infantiles"><span>Duvets y Plumones Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/sabanas-infantiles"><span>Sábanas Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/toallas-infantiles"><span>Toallas Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/decoracion-infantil/teepees-infantiles"><span>Teepees Infantiles</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil/muebles-infantiles"><span>Muebles Infantiles</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/muebles-infantiles/cunas-y-camas-infantiles"><span>Cunas y Camas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/muebles-infantiles/escritorios-infantiles"><span>Escritorios Infantiles</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes"><span>Bebés</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/coches-y-corrales"><span>Coches y Corrales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/teteros-y-chupos-bebe"><span>Teteros y Chupos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/comedores-infantiles"><span>Comedores Infantiles</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/platos-y-utensilios-bebes"><span>Platos y Utensilios</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/baberos-y-pa-itos-bebes"><span>Baberos y Pañitos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/cojines-y-mantas"><span>Cojines y Mantas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/cuidado-y-salud"><span>Cuidado y Salud</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/tapabocas-y-caretas"><span>Tapabocas y Caretas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/infantil-bebes/combos-bebes"><span>Combos Bebés</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil/jugueteria"><span>Juguetería</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/jugueteria/juegos-de-exterior"><span>Juegos de Exterior</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/jugueteria/juguetes"><span>Juguetes</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/decoracion-infantil/accesorios"><span>Accesorios</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/accesorios/maletas-y-morrales"><span>Maletas y Morrales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/accesorios/zapatos-de-ruedas"><span>Zapatos de Ruedas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/decoracion-infantil/accesorios/tapabocas-y-caretas"><span>Tapabocas y Caretas Infantiles</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia" class="level-top"><span>Electro</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia/electrodomesticos"><span>Electrodomésticos</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/sanducheras-wafleras"><span>Sanducheras y Wafleras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/licuadoras-y-extractores"><span>Licuadoras y Extractores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/freidoras"><span>Freidoras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/crispeteras"><span>Crispeteras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/aspiradoras"><span>Aspiradoras</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/planchas-para-ropa"><span>Planchas para Ropa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/hornos"><span>Hornos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/electrodomesticos/batidoras"><span>Batidoras</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia/climatizacion"><span>Climatización</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/climatizacion/aires-acondicionados"><span>Aires Acondicionados</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/climatizacion/ventiladores"><span>Ventiladores</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/climatizacion/duchas"><span>Duchas Eléctricas De Paso</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia/tecnologia-dks"><span>Tecnología</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/tecnologia-dks/speakers-y-headphones"><span>Speakers Y Headphones</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/tecnologia-dks/cargadores-y-baterias"><span>Cargadores Y Baterías</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/tecnologia-dks/carcasas-para-smartphones"><span>Carcasas para Smartphones</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia/tec-accesorios"><span>Accesorios</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/tec-accesorios/accesorios-de-cuidado-y-belleza"><span>Accesorios de Cuidado y Belleza</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/tecnologia/calentadores-de-agua"><span>Calentadores De Agua</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/calentadores-de-agua/calentadores-electricos"><span>Calentadores Eléctricos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/tecnologia/calentadores-de-agua/calentadores-a-gas"><span>Calentadores A Gas</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios" class="level-top"><span>Otros</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/regalos-a-domicilio"><span>Regalos</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/regalos-a-domicilio/regalos-originales-creativos"><span>Regalos Originales</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/regalos-a-domicilio/regalos-corporativos"><span>Regalos Corporativos</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/accesorios-de-moda"><span>Accesorios De Moda</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/accesorios-para-mujer"><span>Accesorios para Mujer</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/accesorios-para-hombre"><span>Accesorios para Hombres</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/gafas-de-sol-para-mujer"><span>Gafas De Sol Para Mujer</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/gafas-de-sol-para-hombre"><span>Gafas De Sol Para Hombre</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/gafas-oftalmicas-para-mujer"><span>Gafas Oftálmicas Para Mujer</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/accesorios-de-moda/gafas-oftalmicas-para-hombre"><span>Gafas Oftálmicas Para Hombre</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/salud-y-belleza"><span>Salud y Belleza</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/salud-y-belleza/salud"><span>Salud</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/salud-y-belleza/belleza"><span>Belleza</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/salud-y-belleza/planchas-para-cabello"><span>Planchas para Cabello</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/aseo-hogar"><span>Aseo Hogar</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/aseo-hogar/articulos-para-el-aseo"><span>Artículos para el Aseo</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/aseo-hogar/canastas-para-ropa"><span>Canastas para Ropa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/aseo-hogar/canecas-de-basura"><span>Canecas de Basura</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/aseo-hogar/productos-de-limpieza"><span>Productos de Limpieza</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/mascotas"><span>Mascotas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/camas-y-cunas"><span>Camas y Cunas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/teepees"><span>Teepees</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/juguetes"><span>Juguetes para Mascotas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/ropa-collares-y-correas"><span>Ropa - Collares y Correas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/comederos"><span>Comederos</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/mascotas/aseo"><span>Aseo</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/para-tu-granja"><span>Para Tu Granja</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/para-tu-granja/cuidado-y-salud-del-ganado"><span>Cuidado y Salud del Ganado</span></a></li></ul></li><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios/herramientas"><span>Herramientas</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/herramientas/herramientas-electricas"><span>Herramientas Eléctricas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios/herramientas/herramientas-manuales"><span>Herramientas Manuales</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios-deportivos" class="level-top"><span>Deportes</span></a><div class="level0 submenu"><div class="row"><ul class="subchildmenu col-sm-12 mega-columns columns4"><li class="ui-menu-item level1 parent "><div class="open-children-toggle"></div><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos"><span>Accesorios Deportivos</span></a><ul class="subchildmenu "><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/morrales-y-tulas-deportivas"><span>Morrales y Tulas Deportivas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/botellas-deportivas"><span>Botellas Deportivas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/accesorios-para-natacion"><span>Accesorios Para Natación</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/gorras-deportivas"><span>Gorras Deportivas</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/bicicletas-y-accesorios"><span>Bicicletas y Accesorios</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/gimnasio-en-casa"><span>Gimnasio en Casa</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/meditacion"><span>Meditación</span></a></li><li class="ui-menu-item level2 "><a href="https://dekosas.com/co/accesorios-deportivos/accesorios-deportivos/carpas"><span>Carpas</span></a></li></ul></li></ul></div></div></li><li class="ui-menu-item level0 fullwidth "><a href="https://dekosas.com/co/ofertas" class="level-top"><span>Ofertas</span></a></li>
+<li class="ui-menu-item level0 classic parent hidden-sm hidden-xs">
+<div class="open-children-toggle"></div>
+</li></ul></nav></div>
+
+
+
+
+<script type="text/javascript">
+//    require([
+//        'jquery',
+//        'zozomegamenu'
+//    ], function () {
+//        jQuery(document).ready(function () {
+//        var topmenu = jQuery(".zozo-megamenu").zozoMegamenu();
+//        });
+//    });
+require([ 'jquery', 'zozomegamenu'], function(){
+   jQuery(document).ready(function () {
+      jQuery(".zozo-megamenu").zozoMegamenu();
+   });
+});
+</script>
+<script type="text/javascript">
+//    require([
+//        'jquery',
+//        'zozomegamenu'
+//    ], function ($) {
+//        var topmenu = $(".zozo-megamenu").zozoMegamenu();
+//    });
+</script>
+</div>
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="nav-sections-item-switch" data-toggle="switch" href="#store.links">Cuenta</a>
+</div>
+<div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"></div>
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="mobile-search-item-switch" data-toggle="switch" href="#mobile-search">Buscar</a>
+</div>
+<div class="section-item-content mobile-search-item-content" id="mobile-search" data-role="content"><div class="mobile-search"><div class="block block-search">
+<div class="block block-title"><strong>Buscar</strong></div>
+<div class="block block-content">
+<form class="form minisearch" id="mobile_search_mini_form" action="https://dekosas.com/co/catalogsearch/result/" method="get">
+<div class="field search">
+<label class="label" for="search" data-role="minisearch-label">
+<span>Buscar</span>
+ </label>
+<div class="control">
+<input id="mobilesearch" data-mage-init="{&quot;quickSearch&quot;:{
+                                &quot;formSelector&quot;:&quot;#mobile_search_mini_form&quot;,
+                                &quot;url&quot;:&quot;https://dekosas.com/co/search/ajax/suggest/&quot;,
+                                &quot;destinationSelector&quot;:&quot;#mobile_search_autocomplete&quot;}
+                           }" type="text" name="q" value="" placeholder="Buscar en toda la tienda..." class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+<div id="mobile_search_autocomplete" class="search-autocomplete"></div>
+</div>
+</div>
+<div class="actions">
+<button type="submit" title="Buscar" class="action search">
+<span>Buscar</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div></div>
+</div>
+</header></div>
+
+<section class="home-image-box">
+<div class="container">
+<div class="row">
+<div class="row mt-30">
+<div class="col-sm-8 home-banner">
+<a href="/co/ofertas"> <span class="overlay-inner"></span> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/BANNER-HOME-DECEMBER-SALE.gif" alt="DECEMBERSALE" width="800px" height="380px"> </a></div>
+<div class="col-sm-4 home-banner" style="margin: 0px auto; text-align: center; padding-top: 5px;">
+<div class="overlay">
+<div class="overlay-wrap">
+<div class="overlay-img-wrap">
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/tienda-navidad"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/icono-guirnalda-navidad.gif" alt="Navidad y Regalos"></a><br>Navidad</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/especiales/home-office"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/homeoffice.png" alt="Home Office"></a><br>Home Office</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/mesa-y-cocina"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/utensilios-cocina.png" alt="Cocina"></a><br>Cocina</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 home-banner" style="margin: 0px auto; text-align: center; padding-top: 5px;">
+<div class="overlay">
+<div class="overlay-wrap">
+<div class="overlay-img-wrap">
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/walldecor.png" alt="Deco Paredes"></a><br>Deco Paredes</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/muebles-accesorios"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/muebles.png" alt="Muebles"></a><br>Muebles</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/duvets.png" alt="Lencería"></a><br>Lencería</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 home-banner" style="margin: 0px auto; text-align: center; padding-top: 5px;">
+<div class="overlay">
+<div class="overlay-wrap">
+<div class="overlay-img-wrap">
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/tapetes.png" alt="Tapetes"></a><br>Tapetes</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/decoracion-apartamentos-casas/lamparas-modernas-iluminacion"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/lamparas.png" alt="Lámparas"></a><br>Lámparas</div>
+<div style="float: left; width: 33%;"><a href="https://dekosas.com/co/ofertas"><img class="brand-img" style="width: 75%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/OFF.png" alt="Ofertas"></a><br>Ofertas</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div id="160394058471"></div>
+<script type="text/javascript">
+    require([
+        "jquery",
+        "carousel"
+    ], function($) {
+        $.ajax({
+            url: '/co/dekosasia/index/showcase/',
+            data: {
+                "widget": 160394058471,
+                "productos": localStorage.getItem('recently_viewed_product'),
+                "dispositivo": getDeviceType(),
+                "category": '0',
+                "product": '0'
+            },
+            type: 'POST',
+            dataType: 'json',
+            success: function(response) {
+                if (response.state) {
+                    $("#160394058471").html(response.html);
+                    $(".dekosasia-carousel-160394058471").slick({
+                        autoplay: true,
+                        infinite: true,
+                        slidesToShow: 4,
+                        slidesToScroll: 2,
+                        arrows: true,
+                        responsive: [{
+                                breakpoint: 1200,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 3,
+                                    arrows: false
+                                }
+                            },
+                            {
+                                breakpoint: 768,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 2,
+                                    arrows: false
+                                }
+                            }
+                        ]
+                    });
+                    showcaseClick160394058471();
+                    savePrintShowcase(response.widget);
+                }
+            }
+        });
+
+        function getDeviceType() {
+            const information = navigator.userAgent;
+            if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(information)) {
+                return "tablet";
+            } else if (/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(information)) {
+                return "mobile";
+            } else {
+                return "desktop";
+            }
+        }
+
+        function showcaseClick160394058471() {
+            $(".vitrina-nexusw").off("click");
+            $(".vitrina-nexusw").click(function() {
+                $.ajax({
+                    url: '/co/dekosasia/index/saveclickwidget/',
+                    data: {
+                        "product": $(this).attr("data-type")
+                    },
+                    type: 'POST',
+                    success: function(response) {
+                        console.log(response);
+                    }
+                });
+            });
+        }
+
+        function savePrintShowcase(widget) {
+            $.ajax({
+                url: '/co/dekosasia/index/saveclickwidget/',
+                data: {
+                    "widget": widget
+                },
+                type: 'POST',
+                success: function(response) {
+                    console.log(response);
+                }
+            });
+        }
+    });
+</script>
+</div>
+</section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 home-banner"><a href="/co/decoracion-apartamentos-casas/decoracion-de-paredes" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/WALL-DECOR_9.jpg" alt="WALLDECOR" width="380" height="400"> </a></div>
+<div class="col-sm-8 home-banner mt-30-767"><a href="/co/decoracion-apartamentos-casas/decoracion-de-navidad" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/DECORACION-NAVIDAD.jpg" alt="DECORACIONNAVIDAD" width="770" height="400"> </a></div>
+</div>
+</div>
+</section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div class="row">
+<div class="row mt-30">
+<div class="col-sm-8 home-banner"><a href="/co/muebles-accesorios" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/MOBILIARIO.jpg" alt="MOBILIARIO" width="770" height="400"> </a></div>
+<div class="col-sm-4 mt-30-767 home-banner"><a href="/co/tecnologia" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/TECNO.jpg" alt="TECNO" width="380" height="400"> </a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="home-image-box">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 home-banner"><a href="co/decoracion-apartamentos-casas/lenceria" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/LENCERIA_7.jpg" alt="LENCERÍA" width="380" height="400"> </a></div>
+<div class="col-sm-8 home-banner mt-30-767"><a href="/co/mesa-y-cocina" target="_self"> <img class="img-responsive" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/COCINA_10.jpg" alt="COCINA" width="770" height="400"> </a></div>
+</div>
+</div>
+</section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div id="160376339735"></div>
+<script type="text/javascript">
+    require([
+        "jquery",
+        "carousel"
+    ], function($) {
+        $.ajax({
+            url: '/co/dekosasia/index/showcase/',
+            data: {
+                "widget": 160376339735,
+                "productos": localStorage.getItem('recently_viewed_product'),
+                "dispositivo": getDeviceType(),
+                "category": '0',
+                "product": '0'
+            },
+            type: 'POST',
+            dataType: 'json',
+            success: function(response) {
+                if (response.state) {
+                    $("#160376339735").html(response.html);
+                    $(".dekosasia-carousel-160376339735").slick({
+                        autoplay: true,
+                        infinite: true,
+                        slidesToShow: 4,
+                        slidesToScroll: 2,
+                        arrows: true,
+                        responsive: [{
+                                breakpoint: 1200,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 3,
+                                    arrows: false
+                                }
+                            },
+                            {
+                                breakpoint: 768,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 2,
+                                    arrows: false
+                                }
+                            }
+                        ]
+                    });
+                    showcaseClick160376339735();
+                    savePrintShowcase(response.widget);
+                }
+            }
+        });
+
+        function getDeviceType() {
+            const information = navigator.userAgent;
+            if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(information)) {
+                return "tablet";
+            } else if (/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(information)) {
+                return "mobile";
+            } else {
+                return "desktop";
+            }
+        }
+
+        function showcaseClick160376339735() {
+            $(".vitrina-nexusw").off("click");
+            $(".vitrina-nexusw").click(function() {
+                $.ajax({
+                    url: '/co/dekosasia/index/saveclickwidget/',
+                    data: {
+                        "product": $(this).attr("data-type")
+                    },
+                    type: 'POST',
+                    success: function(response) {
+                        console.log(response);
+                    }
+                });
+            });
+        }
+
+        function savePrintShowcase(widget) {
+            $.ajax({
+                url: '/co/dekosasia/index/saveclickwidget/',
+                data: {
+                    "widget": widget
+                },
+                type: 'POST',
+                success: function(response) {
+                    console.log(response);
+                }
+            });
+        }
+    });
+</script>
+</div>
+</section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div id="160394084733"></div>
+<script type="text/javascript">
+    require([
+        "jquery",
+        "carousel"
+    ], function($) {
+        $.ajax({
+            url: '/co/dekosasia/index/showcase/',
+            data: {
+                "widget": 160394084733,
+                "productos": localStorage.getItem('recently_viewed_product'),
+                "dispositivo": getDeviceType(),
+                "category": '0',
+                "product": '0'
+            },
+            type: 'POST',
+            dataType: 'json',
+            success: function(response) {
+                if (response.state) {
+                    $("#160394084733").html(response.html);
+                    $(".dekosasia-carousel-160394084733").slick({
+                        autoplay: true,
+                        infinite: true,
+                        slidesToShow: 4,
+                        slidesToScroll: 2,
+                        arrows: true,
+                        responsive: [{
+                                breakpoint: 1200,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 3,
+                                    arrows: false
+                                }
+                            },
+                            {
+                                breakpoint: 768,
+                                settings: {
+                                    dots: true,
+                                    slidesToShow: 2,
+                                    arrows: false
+                                }
+                            }
+                        ]
+                    });
+                    showcaseClick160394084733();
+                    savePrintShowcase(response.widget);
+                }
+            }
+        });
+
+        function getDeviceType() {
+            const information = navigator.userAgent;
+            if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(information)) {
+                return "tablet";
+            } else if (/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(information)) {
+                return "mobile";
+            } else {
+                return "desktop";
+            }
+        }
+
+        function showcaseClick160394084733() {
+            $(".vitrina-nexusw").off("click");
+            $(".vitrina-nexusw").click(function() {
+                $.ajax({
+                    url: '/co/dekosasia/index/saveclickwidget/',
+                    data: {
+                        "product": $(this).attr("data-type")
+                    },
+                    type: 'POST',
+                    success: function(response) {
+                        console.log(response);
+                    }
+                });
+            });
+        }
+
+        function savePrintShowcase(widget) {
+            $.ajax({
+                url: '/co/dekosasia/index/saveclickwidget/',
+                data: {
+                    "widget": widget
+                },
+                type: 'POST',
+                success: function(response) {
+                    console.log(response);
+                }
+            });
+        }
+    });
+</script>
+</div>
+</section>
+<p></p>
+<section class="home-image-box">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 home-banner" style="margin: 0px auto; text-align: center;">
+<div class="overlay hvr-typo-light">
+<div style="float: left; width: 50%;"><a><img class="brand-img" style="width: 25%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/Disen_o-y-calidad.jpg" alt="Calidad"></a><br>Diseños únicos con calidad<br>y precio justo</div>
+<div style="float: left; width: 50%;"><a><img class="brand-img" style="width: 25%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/Todo-en-1.jpg" alt="Todo en uno"></a><br>Miles de opciones<br>en un solo lugar</div>
+</div>
+</div>
+<div class="col-sm-6 mt-30-767 home-banner" style="margin: 0px auto; text-align: center;">
+<div class="overlay hvr-typo-light">
+<div style="float: left; width: 50%;"><a><img class="brand-img" style="width: 25%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/Servicio-al-cliente.jpg" alt="Servicio al Cliente"></a><br>Asesores expertos<br>listos para ayudarte</div>
+<div style="float: left; width: 50%;"><a><img class="brand-img" style="width: 25%; height: auto;" title="brand" src="https://dekosas.com/co/pub/media/wysiwyg/zozothemes/Envi_os-y-devoluciones.jpg" alt="Todo en uno"></a><br>Envíos gratis, compras <br>&gt; $390.000</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<main id="maincontent" class="page-main"><div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+<!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+<div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+<div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+<div data-bind="html: message.text"></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- ko if: messages().messages && messages().messages.length > 0 -->
+<div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+<div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+<div data-bind="html: message.text"></div>
+</div>
+</div>
+<!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="jH2SDb81u6VNKYVm"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+<script type="text/javascript">
+        window.authenticationPopup = {"autocomplete":"on","customerRegisterUrl":"https:\/\/dekosas.com\/co\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/dekosas.com\/co\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/dekosas.com\/co\/"};
+    </script>
+<!-- ko template: getTemplate() --><!-- /ko -->
+<script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"},"social-buttons":{"component":"Mageplaza_SocialLogin\/js\/view\/social-buttons","displayArea":"before"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fdekosas.com\u002Fco\u002Fpub\u002Fstatic\u002Ffrontend\u002FZozothemes\u002Fmicro\u002Fes_AR\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"ammostviewed\/cart\/add":["cart","messages"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"review\/product\/post":["review"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"sociallogin\/popup\/create":["checkout-data","cart"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/dekosas.com\/co\/","http:\/\/dekosas.com\/co\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/dekosas.com\/co\/customer\/section\/load\/","expirableSectionLifetime":60,"expirableSectionNames":["cart"],"cookieLifeTime":"3600","updateSessionUrl":"https:\/\/dekosas.com\/co\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
+<script type="text/javascript">
+        var data_city_link="";
+        var data_city_title="City not in list";
+		var data_zip_link="";
+        var data_zip_title="Zip not in list";
+        var data_url="https://dekosas.com/co/city/index/cities/";
+		 var data_zip_url="https://dekosas.com/co/city/index/zips/";
+        var loading_url = "https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/Custom_City/images/loader-1.gif";
+                require(["jquery","domReady!"], function($){
+            setTimeout(function(){ addressPageCall();}, 2000);
+        });
+            </script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/dekosas.com\/co\/page_cache\/block\/render\/","handles":["default","cms_index_index","cms_page_view","cms_index_index_id_micro_home_2"],"originalRequest":{"route":"cms","controller":"index","action":"index","uri":"\/co\/"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+
+<div id="social-login-popup" class="white-popup mfp-with-anim mfp-hide" data-mage-init="{&quot;socialPopupForm&quot;: {&quot;headerLink&quot;:&quot;.header.links, .section-item-content .header.links, .authorization-link&quot;,&quot;popupEffect&quot;:&quot;mfp-move-from-top&quot;,&quot;formLoginUrl&quot;:&quot;https:\/\/dekosas.com\/co\/customer\/ajax\/login\/&quot;,&quot;forgotFormUrl&quot;:&quot;https:\/\/dekosas.com\/co\/sociallogin\/popup\/forgot\/&quot;,&quot;createFormUrl&quot;:&quot;https:\/\/dekosas.com\/co\/sociallogin\/popup\/create\/&quot;,&quot;fakeEmailUrl&quot;:&quot;https:\/\/dekosas.com\/co\/sociallogin\/social\/email\/&quot;,&quot;showFields&quot;:null,&quot;popupLogin&quot;:&quot;popup_login&quot;,&quot;actionName&quot;:&quot;cms_index_index&quot;}}">
+<div class="social-login block-container fake-email" style="display: none">
+<div class="social-login-title">
+<h2 class="forgot-pass-title">The information below is required for social login</h2>
+</div>
+<div class="block col-mp mp-12">
+<div class="block-content">
+<form class="form-fake-email" id="social-form-fake-email" data-mage-init="{&quot;validation&quot;:{}}">
+<fieldset class="fieldset" data-hasrequired="* Campos Requeridos">
+<div class="field note">Please complete your information below to creat an account.</div>
+<div class="field field-name-social col-mp mp-6 required" style="padding: 0 10px 0px 0px;">
+<label class="label" for="request-firstname" style="font-weight: 600"><span>Nombre</span></label>
+<div class="control">
+<input type="text" id="request-firstname" name="firstname" title="Nombre" class="input-text required-entry" data-validate="{required:true}" aria-required="true">
+</div>
+</div>
+<div class="field field-name-social required col-mp mp-6" style="padding: 0">
+<label class="label" for="request-lastname" style="font-weight: 600"><span>Apellido</span></label>
+<div class="control">
+<input type="text" id="request-lastname" name="lastname" title="Apellido" class="input-text required-entry" data-validate="{required:true}" aria-required="true">
+</div>
+</div>
+<div class="field field-email-social required">
+<label for="request-email" class="label"><span>Correo electrónico</span></label>
+<div class="control">
+<input type="email" name="realEmail" alt="email" id="request-email" class="input-text" data-validate="{required:true, 'validate-email':true}">
+</div>
+</div>
+<div class="field field-password-social required">
+<label for="request-password-social" class="label"><span>Contraseña</span></label>
+<div class="control">
+<input type="password" name="password" id="request-password-social" title="Contraseña" class="input-text" data-validate="{required:true, 'validate-password':true}" autocomplete="off">
+</div>
+</div>
+<div class="field field-confirmation-social required">
+<label for="request-password-confirmation" class="label"><span>Confirmar contraseña</span></label>
+<div class="control">
+<input type="password" name="password_confirmation" title="Confirmar contraseña" id="request-password-confirmation" class="input-text" data-validate="{required:true, equalTo:'#request-password-social'}" autocomplete="off">
+</div>
+</div>
+</fieldset>
+<div class="actions-toolbar">
+<div class="primary">
+<button type="button" id="bnt-social-login-fake-email" class="action send primary">
+<span>Enviar</span>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="social-login block-container authentication">
+<div class="social-login-title">
+<h2 class="login-title">Iniciar sesión</h2>
+</div>
+<div class="block social-login-customer-authentication col-mp mp-7" id="social-login-authentication">
+<div class="block-title">
+<span id="block-customer-login-heading" role="heading" aria-level="2">Clientes registrados</span>
+</div>
+<div class="block-content" aria-labelledby="block-customer-login-heading">
+<form class="form-customer-login" id="social-form-login" data-mage-init="{&quot;validation&quot;:{}}">
+<input name="form_key" type="hidden" value="jH2SDb81u6VNKYVm"> <fieldset class="fieldset login" data-hasrequired="* Campos Requeridos">
+<div class="field email required">
+<label class="label" for="social_login_email"><span>Correo electrónico</span></label>
+<div class="control">
+<input name="username" id="social_login_email" type="email" class="input-text" value="" title="Correo electrónico" data-validate="{required:true, 'validate-email':true}">
+</div>
+</div>
+<div class="field password required">
+<label for="pass" class="label"><span>Contraseña</span></label>
+<div class="control">
+<input name="password" id="social_login_pass" type="password" class="input-text" title="Contraseña" data-validate="{required:true, 'validate-password':true}">
+</div>
+</div>
+ <div class="actions-toolbar">
+<div class="primary">
+<button type="button" class="action login primary" id="bnt-social-login-authentication">
+<span>Entrar</span>
+</button>
+</div>
+<div class="secondary">
+<a class="action remind" href="#"><span>¿Olvidaste tu contraseña?</span></a>
+</div>
+</div>
+<div class="actions-toolbar">
+<div class="primary">
+<a class="action create" href="#"><span>Create New Account?</span></a>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="block social-login-authentication-channel col-mp mp-5">
+<div class="block-title">
+Or Sign In With </div>
+<div class="block-content">
+<div class="actions-toolbar social-btn facebook-login">
+<a class="btn btn-block btn-social btn-facebook" data-mage-init="{&quot;socialProvider&quot;: {&quot;url&quot;: &quot;https://dekosas.com/co/sociallogin/social/login/type/facebook/&quot;, &quot;label&quot;: &quot;Login By Facebook&quot;}}">
+<span class="fa fa-facebook"></span>
+Sign in with Facebook </a>
+</div>
+<div class="actions-toolbar social-btn google-login">
+<a class="btn btn-block btn-social btn-google" data-mage-init="{&quot;socialProvider&quot;: {&quot;url&quot;: &quot;https://dekosas.com/co/sociallogin/social/login/type/google/&quot;, &quot;label&quot;: &quot;Login By Google&quot;}}">
+<span class="fa fa-google"></span>
+Sign in with Google </a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        require(['jquery'], function ($) {
+            $('#social-login-authentication').removeClass('mp-12').addClass('mp-7');
+        });
+    </script>
+<script type="text/javascript">
+        window.socialAuthenticationPopup = {"facebook":{"label":"Facebook","login_url":"https:\/\/dekosas.com\/co\/sociallogin\/social\/login\/type\/facebook\/","url":"https:\/\/dekosas.com\/co\/sociallogin\/social\/login\/authen\/popup\/type\/facebook\/","key":"facebook","btn_key":"facebook"},"google":{"label":"Google","login_url":"https:\/\/dekosas.com\/co\/sociallogin\/social\/login\/type\/google\/","url":"https:\/\/dekosas.com\/co\/sociallogin\/social\/login\/authen\/popup\/type\/google\/","key":"google","btn_key":"google"}};
+    </script>
+</div>
+<div class="social-login block-container create" style="display: none">
+<div class="social-login-title">
+<h2 class="create-account-title">Create New Account</h2>
+</div>
+<div class="block col-mp mp-12">
+<div class="block-content">
+<form class="form-customer-create" id="social-form-create">
+<fieldset class="fieldset create info">
+<input type="hidden" name="success_url" value="">
+<input type="hidden" name="error_url" value="">
+<div class="field field-name-firstname required">
+<label class="label" for="firstname">
+<span>Nombre</span>
+</label>
+<div class="control">
+<input type="text" id="firstname" name="firstname" value="" title="Nombre" class="input-text required-entry" data-validate="{required:true}">
+</div>
+</div>
+<div class="field field-name-lastname required">
+<label class="label" for="lastname">
+<span>Apellido</span>
+</label>
+<div class="control">
+<input type="text" id="lastname" name="lastname" value="" title="Apellido" class="input-text required-entry" data-validate="{required:true}">
+</div>
+</div>
+<div class="field required">
+<label for="email_address" class="label"><span>Correo electrónico</span></label>
+<div class="control">
+<input type="email" name="email" id="email_address_create" value="" title="Correo electrónico" class="input-text" data-validate="{required:true, 'validate-email':true}">
+</div>
+</div>
+<div class="field choice newsletter">
+<input type="checkbox" class="checkbox" name="is_subscribed" title="Suscribirse al boletín de noticias" value="1" id="is_subscribed">
+<label for="is_subscribed" class="label"><span>Suscribirse al boletín de noticias</span></label>
+</div>
+</fieldset>
+<fieldset class="fieldset create account" data-hasrequired="* Campos Requeridos">
+<div class="field password required">
+<label for="password" class="label"><span>Contraseña</span></label>
+<div class="control">
+<input type="password" name="password" id="password-social" title="Contraseña" class="input-text" data-validate="{required:true, 'validate-password':true}" autocomplete="off">
+</div>
+</div>
+<div class="field confirmation required">
+<label for="password-confirmation" class="label"><span>Confirmar contraseña</span></label>
+<div class="control">
+<input type="password" name="password_confirmation" title="Confirmar contraseña" id="password-confirmation-social" class="input-text" data-validate="{required:true, equalTo:'#password-social'}" autocomplete="off">
+</div>
+</div>
+<div class="field captcha required" role="user_create">
+<label for="captcha_user_create" class="label"><span>Por favor, escriba las letras de abajo</span></label>
+<div class="control captcha">
+<input name="captcha[user_create]" type="text" class="input-text required-entry" data-validate="{required:true}" id="captcha_user_create">
+<div class="nested">
+<div class="field captcha no-label" data-captcha="user_create" id="captcha-container-user_create" data-mage-init="{&quot;captcha&quot;:{&quot;url&quot;: &quot;https://dekosas.com/co/captcha/refresh/&quot;,
+                                            &quot;imageLoader&quot;: &quot;https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/images/loader-2.gif&quot;,
+                                             &quot;type&quot;: &quot;user_create&quot;}}">
+<div class="control captcha-image">
+<img alt="Por favor, escriba las letras de abajo" class="captcha-img" height="50" src="https://dekosas.com/co/pub/media/captcha/base/7a9f4c3a78a2c2470bb798207eb7a920.png">
+<button type="button" class="action reload captcha-reload" title="Recargar captcha"><span>Recargar captcha</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+ </fieldset>
+<div class="actions-toolbar">
+<div class="primary">
+<button type="button" id="button-create-social" class="action create primary" title="Crear una Cuenta">
+<span>Crear una Cuenta</span></button>
+<div class="secondary">
+<a class="action back" href="#"><span>Volver</span></a>
+</div>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+                require([
+                    'jquery',
+                    'mage/mage'
+                ], function ($) {
+                    var dataForm = $('#social-form-create'),
+                        ignore = null;
+
+                    dataForm.mage('validation', {
+                                                ignore: ignore ? ':hidden:not(' + ignore + ')' : ':hidden'
+                                            });
+                });
+            </script>
+</div>
+</div>
+</div>
+<div class="social-login block-container forgot" style="display:none">
+<div class="social-login-title">
+<h2 class="forgot-pass-title">He olvidado la contraseña</h2>
+</div>
+<div class="block col-mp mp-12">
+<div class="block-content">
+<form class="form-password-forget" id="social-form-password-forget" data-mage-init="{&quot;validation&quot;:{}}">
+<fieldset class="fieldset" data-hasrequired="* Campos Requeridos">
+<div class="field note">Por favor introduzca su dirección de correo electrónico para recibir un enlace de restablecimiento de contraseña.</div>
+<div class="field email required">
+<label for="email_address" class="label"><span>Correo electrónico</span></label>
+<div class="control">
+<input type="email" name="email" alt="email" id="email_address_forgot" class="input-text" value="" data-validate="{required:true, 'validate-email':true}">
+</div>
+</div>
+<div class="field captcha required" role="user_forgotpassword">
+<label for="captcha_user_forgotpassword" class="label"><span>Por favor, escriba las letras de abajo</span></label>
+<div class="control captcha">
+<input name="captcha[user_forgotpassword]" type="text" class="input-text required-entry" data-validate="{required:true}" id="captcha_user_forgotpassword">
+<div class="nested">
+<div class="field captcha no-label" data-captcha="user_forgotpassword" id="captcha-container-user_forgotpassword" data-mage-init="{&quot;captcha&quot;:{&quot;url&quot;: &quot;https://dekosas.com/co/captcha/refresh/&quot;,
+                                            &quot;imageLoader&quot;: &quot;https://dekosas.com/co/pub/static/frontend/Zozothemes/micro/es_AR/images/loader-2.gif&quot;,
+                                             &quot;type&quot;: &quot;user_forgotpassword&quot;}}">
+<div class="control captcha-image">
+<img alt="Por favor, escriba las letras de abajo" class="captcha-img" height="50" src="https://dekosas.com/co/pub/media/captcha/base/80776709f20c338adb9923c58d93924d.png">
+<button type="button" class="action reload captcha-reload" title="Recargar captcha"><span>Recargar captcha</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+ </fieldset>
+<div class="actions-toolbar">
+<div class="primary">
+<button type="button" id="bnt-social-login-forgot" class="action send primary">
+<span>Enviar</span>
+</button>
+<div class="secondary">
+<a class="action back" href="#"><span>Volver</span></a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div style="clear: both"></div>
+<style type="text/css">.page-main {
+    padding-top: 0;
+    padding-bottom: 0;
+}.columns .column.main{padding-bottom: 0px; min-height: 0px;}</style>
+</div></div></main><footer class="page-footer"><div class="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+</div>
+</div>
+<div class="footer-middle footer footer-dark">
+<div class="container">
+<div class="row">
+<div class="col-sm-6"><p><span style="line-height: 1.618; font-weight: bold; background-color: transparent;">DEKOSAS - FOR AMAZING PEOPLE</span></p>
+<p><span style="line-height: 1.618; background-color: transparent;">Sabemos lo difícil que es decorar y amoblar un espacio; En DEKOSAS.com te ayudamos a encontrar tu estilo y que puedas comprar de forma rápida, fácil y confiable.</span></p>
+<p>Puedes escoger entre más de 10 mil productos seleccionados por expertos con buena calidad y buen precio.</p>
+<p><img style="background-color: transparent;" src="//dekosas.com/co/images/pagos-dekosas-bw.png"></p>
+<p><span style="line-height: 1.618; font-weight: bold; background-color: transparent;">Envíos gratis para compras superiores a $390.000 pesos.</span></p>
+</div><div class="col-sm-6"><p><span style="line-height: 1.618; font-weight: bold; background-color: transparent;">¿NECESITAS AYUDA?</span></p>
+<p>Escríbenos a servicioalcliente@dekosas.com o por whatsapp haciendo clic aquí:
+<a title="Whatsapp Dekosas" href="https://api.whatsapp.com/send?phone=573046164273&amp;text=Hola%2C%20me%20gustar%C3%ADa%20hablar%20con%20un%20asesor" target="_blank"><img src="https://dekosas.com/co/pub/media/wysiwyg/Iconosotros/icono-whatsapp.png" alt="Whatsapp Dekosas" width="40" height="40"></a> <strong> Horario de Atención: Lunes a Viernes de 7:00 am a 6:00 pm</strong></p>
+<p></p>
+<p><iframe id="doppler_subscription" style="overflow: scroll;" src="https://app2.fromdoppler.com/Lists/FormProcessing/Form?idForm=CRWoynpy6EfBn3UBAoLB7Q%3d%3d" width="320" height="335" frameborder="no" scrolling="no"></iframe></p></div> </div>
+</div>
+</div>
+<div class="footer-middle footer-middle-2">
+<div class="container">
+<div class="row">
+<div class="col-sm-3"><p><span style="font-weight: bold;">OPINIONES DE CLIENTES</span></p>
+<p></p>
+<p><a href="https://dekosas.com/co/opiniones-clientes"> <img style="width: 60%;" src="https://dekosas.com/co/pub/media/wysiwyg/Imagenes-Portada-Home/opiniones-dekosas.png" alt="Opiniones"> </a>
+<br> <br>
+Vivexcel SAS / NIT: 900548622-9 <br>
+Calle 127B bis # 49 - 48 Bogotá, Colombia
+</p>
+</div><div class="col-sm-3"><p><span style="font-weight: bold;">ACERCA DE DEKOSAS</span></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/quienes-somos">Quiénes Somos</a></p>
+<p><span style="line-height: 1.618; background-color: transparent;"><a style="text-decoration: none;" href="https://dekosas.freshdesk.com/support/tickets/new">Contáctenos</a></span></p>
+<p><a style="text-decoration: none;" href="https://blog.dekosas.com">Blog</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/marketplace/account/login/">Soy Vendedor</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/terminos-condiciones">Términos y Condiciones</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/politica-privacidad">Política de Privacidad</a></p>
+<p><a style="text-decoration: none;" href="https://dekosas.com/co/opiniones-clientes">Opiniones de Clientes</a></p>
+<p><br></p>
+
+</div><div class="col-sm-3"><p><span style="font-weight: bold;">CATEGORÍAS PREFERIDAS</span></p>
+<p><span style="line-height: 1.618; background-color: transparent;"><a style="text-decoration: none;" href="https://www.dekosas.com/co/decoracion-apartamentos-casas">Decoración de Apartamentos</a></span></p> 
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/muebles-accesorios">Muebles y Accesorios</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/decoracion-apartamentos-casas/decoracion-de-paredes/vinilos-decorativos-adhesivos">Vinilos Decorativos</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/decoracion-apartamentos-casas/lamparas-modernas-iluminacion">Lámparas e Iluminación</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/decoracion-apartamentos-casas/objetos-decorativos/cojines-salas-cama">Cojines para Sala</a></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/muebles-accesorios/sala/sofas-modernos-sala">Sofás Modernos</a></p>
+<p><a style="text-decoration: none;" href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/duvets-edredon-colchas">Edredones y Duvets</a></p>
+<p><br></p>
+
+</div><div class="col-sm-3"><p><span style="font-weight: bold;">MÁS PARA INSPIRARTE</span></p>
+<p><span style="font-weight: bold;"></span></p>
+<p><a title="Instragram Dekosas" href="https://www.instagram.com/dekosas/" target="_blank"><img src="https://dekosas.com/co/pub/media/wysiwyg/Iconosotros/logo-instagram.png" alt="logo instagram" width="35" height="35"></a>&nbsp; &nbsp;&nbsp;<a title="Facebook Dekosas" href="https://www.facebook.com/DekosasLatam/" target="_blank"><img src="https://dekosas.com/co/pub/media/wysiwyg/Iconosotros/logo-facebook.png" alt="logo facebook" width="35" height="35"></a>&nbsp; &nbsp;&nbsp;<a title="Youtube Dekosas" href="https://www.youtube.com/channel/UCBTbz-juRFEnrsYXhhkiGFw" target="_blank"><img src="https://dekosas.com/co/pub/media/wysiwyg/Iconosotros/logo-youtube.png" alt="logo youtube" width="35" height="35"></a></p>
+<p></p>
+<p><span style="font-weight: bold;"></span></p>
+<p><span style="font-weight: bold;">OTROS LINKS DE INTERÉS</span></p>
+<p><a style="text-decoration: none;" href="https://www.dekosas.com/co/decoracion-apartamentos-casas/tapetes-alfombras">Tapetes Modernos</a></p>
+<p><a style="text-decoration: none;" href="https://dekosas.com/co/decoracion-apartamentos-casas/lenceria/juego-sabanas-para-cama">Sábanas</a></p>
+<p><a style="text-decoration: none;" href="https://dekosas.com/co/muebles-accesorios/alcoba/mesas-de-noche-modernas">Mesas de Noche</a></p></div> </div>
+</div>
+</div>
+</div>
+<a href="#" id="totop" style="display: block;"><i class="fa fa-hand-o-up"></i></a>
+<script type="text/javascript">
+        require(['jquery'], function(){   
+        // input focus
+        jQuery( "input" ).focus(function() {
+		jQuery( this ).next( "span.input-group-btn" ).addClass( "form-focus" );
+	});
+	jQuery( "input" ).focusout(function() {
+		jQuery( this ).next( "span.input-group-btn" ).removeClass( "form-focus" );
+	});
+        // to top 
+         var windowScroll_t;
+        jQuery(window).scroll(function(){
+            clearTimeout(windowScroll_t);
+            windowScroll_t = setTimeout(function(){
+                if(jQuery(this).scrollTop() > 100){
+                    jQuery('#totop').fadeIn();
+                }else{
+                    jQuery('#totop').fadeOut();
+                }
+            }, 500);
+        });
+        jQuery('#totop').click(function(){
+            jQuery('html, body').animate({scrollTop: 0}, 600);
+            return false;
+        });
+         });
+         require(['jquery'], function(){    
+    jQuery(function($){
+    $(".search-toggle-icon").click(function(e){
+        if($(this).parent().children(".block-search").hasClass("show")) {
+            $(this).parent().children(".block-search").removeClass("show");
+        } else {
+            $(this).parent().children(".block-search").addClass("show");
+        }
+        e.stopPropagation();
+    });
+    $(".search-toggle-icon").parent().click(function(e){
+        e.stopPropagation();
+    });
+    $("html,body").click(function(){
+        $(".search-toggle-icon").parent().children(".block-search").removeClass("show");
+    });
+    
+    /********************* Qty Holder **************************/
+    $(".qty-inc").unbind('click').click(function(){
+        if($(this).parent().parent().children(".control").children("input.input-text.qty").is(':enabled')){
+            $(this).parent().parent().children(".control").children("input.input-text.qty").val((+$(this).parent().parent().children(".control").children("input.input-text.qty").val() + 1) || 0);
+            $(this).parent().parent().children(".control").children("input.input-text.qty").trigger('change');
+            $(this).focus();
+        }
+    });
+    $(".qty-dec").unbind('click').click(function(){
+        if($(this).parent().parent().children(".control").children("input.input-text.qty").is(':enabled')){
+            $(this).parent().parent().children(".control").children("input.input-text.qty").val(($(this).parent().parent().children(".control").children("input.input-text.qty").val() - 1 > 0) ? ($(this).parent().parent().children(".control").children("input.input-text.qty").val() - 1) : 0);
+            $(this).parent().parent().children(".control").children("input.input-text.qty").trigger('change');
+            $(this).focus();
+        }
+    });
+    });
+});
+</script></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/dekosas.com\/co\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/dekosas.com\/co\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/dekosas.com\/co\/rest\/default\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+ 
+
+<script type="text/javascript" defer="" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","573212689454765");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=573212689454765&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="" src="//assets.pcrl.co/js/jstracker.min.js"></script></body></html>
