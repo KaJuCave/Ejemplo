@@ -7,10 +7,6 @@ En este proyecto se desarrollo la automatización donde se desarrollaran los sig
 ## Estructura del proyecto 📂
 _En esta sección encontrara los pasos básicos para el desarrollo del proyecto_
 
-* Explorar la pagina [Dekosas.com](https://dekosas.com/co/) y seleccionar los productos utilizados en la automatización. Se crea un archivo en Excel  con el nombre de ``` retoDekosas.xlsx``` que contiene el nombre y precio de los productos.
-
-![productosExcel](https://github.com/KaJuCave/imagenesDekosas/blob/master/productosExcel.PNG)
-
 * Se crea un proyecto **Gradle** en el entorno de desarrollo.
 
 * Para este proyecto se crearán paquetes y directorios para la automatización. Comencemos creando cuatro paquetes en nuestro directorio **main/java** para los drivers del navegador, leer el archivo de Excel, los elementos que se utilizaran de la página y los pasos que se automatizaran en la página Dekosas.
