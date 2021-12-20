@@ -16,9 +16,6 @@ import tasks.DekosasCarrito;
 import uis.DekosasPage;
 
 public class DekosasEscenariosStepsDefinitions {
-    String productoExitoso = "Reebok Hiit Tr Dynred";
-    String productoFallido = "Mouse";
-
     Actor actor = new Actor("Juliana");
 
     @Given("^Me encuentro en la pagina de Dekosas$")

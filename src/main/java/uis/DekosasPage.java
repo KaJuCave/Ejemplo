@@ -9,6 +9,4 @@ public class DekosasPage {
         public static final Target BTN_CARRITO = Target.the("").locatedBy("//button[@class='action primary tocart' and @title='Agregar al Carrito']");
         public static final Target LB_CARRITO = Target.the("").locatedBy("//div[@data-bind='html: message.text']");
         public static final Target BTN_MUEBLES = Target.the("").locatedBy("//a[@class='level-top' and @href='https://dekosas.com/co/muebles-accesorios']");
-
-
 }

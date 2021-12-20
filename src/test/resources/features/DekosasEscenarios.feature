@@ -1,4 +1,4 @@
-Feature: HU-002 Escenarios Exitosos y fallidos Dekosas
+Feature: HU-003 Escenarios Exitosos y fallidos Dekosas
   Yo como usuario de Dekosas
   quiero buscar un producto que este
   disponiple  y agotado
