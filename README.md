@@ -23,7 +23,7 @@ Por último en el directorio **resources** se creara la clase con la extensión 
 
 _Nota: En las siguientes secciones se explicarán con más detalle la codificación de cada una de sus clases_ 
 
-* Adicionalmente se debe descargar el [chromedriver]( https://chromedriver.chromium.org/downloads) de acuerdo a la versión del navegador, este le permitira que implementa el protocolo de WebDriver para Chromium. Por último, se agrega este driver y el archivo de Excel (con el nombre de los productos) a los archivos del proyecto.
+* Adicionalmente se debe descargar el [chromedriver]( https://chromedriver.chromium.org/downloads) de acuerdo a la versión del navegador, este le permitira que implementa el protocolo de WebDriver para Chromium. 
 
 ![driverExcel](https://github.com/KaJuCave/imagenesDekosas/blob/master/driversExcel.PNG)
 
@@ -118,9 +118,84 @@ public class DekosasPage {
 }
 ```
 
+### Caracteriscticas de la automatización (feature)
+
+Se crea un archivo con nombre ``` DekosasBuscador``` y con extensión ```.feature``` donde se describen las siguientes características de la prueba. 
+
+``` Feature: ```  nombre de la funcionalidad de la prueba. Con el caso de usuario que se va a probar 
+``` Scenario: ``` se realiza para especificar la funcionalidad la búsqueda de productos 
+``` Scenario Outline:``` son un tipo de escenario donde se especifican datos de entrada.
+``` Background:``` Utilizada para definir un paso o una serie de pasos que son comunes a todas las pruebas definida en los escenarios
+``` Given: ```  se describe el contexto, las precondiciones.
+``` When: ```  se especifican las acciones que se van a ejecutar.
+``` Then: ```  y acá se especifica el resultado esperado, las validaciones a realizar.
+
+* Buscar los 5 productos no desde el excel sino desde el feature con examples
+
+```feature
+Feature: HU-001 Buscador Dekosas
+  Yo como usuario en la pagina web Dekosas
+  Quiero buscar los productos en la plataforma
+  Para ver las caracteristicas de los producto
+
+  Scenario Outline: Buscar productos
+    Given que me encuentro en la pagina Dekosas
+    When busque el producto <NombreProducto>
+    Then podre ver <NombreProducto> en pantalla
+
+    Examples:
+      |NombreProducto|
+      |Separador De Yemas Greenf - DKS Worldwide|
+      |Set de Desayuno - Snoopy|
+      |Raqueta Niña Talla 23 - Zoom Sports|
+      |Portavasos Silueta Navidad – Mulikka|
+      |Mesa Plegable Madera - Tramontina|
+      |Retablo Bat Man - Decasa|
+
+```
+
+* Utilizar un Background para realizar como mínimo 2 escenarios.
+
+```feature
+Feature: HU-002 Agregar al carrito
+  Yo como usuario de Dekosas
+  quiero buscar un producto en la pagina Dekosas
+  para agregarlo al carrito de compras
+
+  Background:
+    Given Dado que me encuentro en la pagina
+
+  Scenario: Seleccionar el producto a buscar
+    When seleccione el producto que quiero encontrar "Retablo Bat Man - Decasa"
+    Then vemos producto "Retablo Bat Man - Decasa" el producto al carrito de compras
+
+  Scenario: Seleccionar la categoria de muebles
+    When selecciono en la pantalla principal la categoria muebles
+    Then visualizo todos los productos de la categoria en Dekosas
+```
+
+* Realizar un escenario fallido y uno exitoso sin examples.
+
+```feature
+Feature: HU-003 Escenarios Exitosos y fallidos Dekosas
+  Yo como usuario de Dekosas
+  quiero buscar un producto que este
+  disponiple  y agotado
+
+  Background:
+    Given Me encuentro en la pagina de Dekosas
+
+  Scenario: Buscar producto disponible
+    When busco el nombre del producto "Juego De Habilidad Jenga - Landik" disponible en la pagina
+    Then visualizo detalles del producto "Juego De Habilidad Jenga - Landik" en pantalla
+  Scenario: Buscar producto no disponibles
+    When busco el nombre del producto " Zapato Ruedas Talla 29 - Minions"que no esta en la pagina
+    Then visualizo "Zapato Ruedas Talla 29 - Minions" no disponible
+```
+
 **DekosasSteps**
 
-Dentro de la clase ``` DekosasSteps.java``` especificaremos los pasos que la página realizara en la automatización. 
+Dentro de la clase ``` DekosasStepsDefinitions.java``` especificaremos los pasos que la página realizara en la automatización. 
 
 ```java
 Public class DekosasStepsDefinitions {
@@ -143,6 +218,42 @@ Public class DekosasStepsDefinitions {
     }
 }
 ```
+
+Dentro de la clase ``` DekosasCarritoStepsDefinitions.java``` especificaremos los pasos que la página realizara en la automatización. 
+
+```java
+public class  {
+
+    Actor actor = new Actor("Juliana");
+
+    @Given("^Dado que me encuentro en la pagina$")
+    public void dadoQueMeEncuentroEnLaPagina() {
+        actor.can(BrowseTheWeb.with(GoogleChromeDriver.chromeHisBrowserWeb().on("https://dekosas.com/co/")));
+    }
+
+    @When("^seleccione el producto que quiero encontrar \"([^\"]*)\"$")
+    public void seleccioneElProductoQueQuieroEncontrar(String producto) {
+        actor.attemptsTo(BuscarProducto.enDekosas(producto));
+
+    }
+    @Then("^vemos producto \"([^\"]*)\" el producto al carrito de compras$")
+    public void vemos_producto_el_producto_al_carrito_de_compras(String producto) {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto))));
+    }
+    
+    @When("^selecciono en la pantalla principal la categoria muebles$")
+    public void selecciono_en_la_pantalla_principal_la_categoria_muebles(String producto) {
+        actor.attemptsTo(BuscarProducto.enDekosas(producto));
+    }
+
+    @Then("^visualizo todos los productos de la categoria en Dekosas $")
+    public void visualizo_todos_los_productos_de_la_categoria_en_Dekosas() {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.BTN_MUEBLES)));
+    }
+}
+```
+
+Dentro de la clase ``` DekosasEscenariosStepsDefinitions.java``` especificaremos los pasos que la página realizara en la automatización. 
 
 ```java
 public class DekosasEscenariosStepsDefinitions {
@@ -177,121 +288,10 @@ public class DekosasEscenariosStepsDefinitions {
 }
 ```
 
-```java
-public class DekosasCarritoStepsDefinitions {
-
-    Actor actor = new Actor("Juliana");
-
-    @Given("^Dado que me encuentro en la pagina$")
-    public void dadoQueMeEncuentroEnLaPagina() {
-        actor.can(BrowseTheWeb.with(GoogleChromeDriver.chromeHisBrowserWeb().on("https://dekosas.com/co/")));
-    }
-
-    @When("^seleccione el producto que quiero encontrar \"([^\"]*)\"$")
-    public void seleccioneElProductoQueQuieroEncontrar(String producto) {
-        actor.attemptsTo(BuscarProducto.enDekosas(producto));
-
-    }
-    @Then("^vemos producto \"([^\"]*)\" el producto al carrito de compras$")
-    public void vemos_producto_el_producto_al_carrito_de_compras(String producto) {
-        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto))));
-    }
-    
-    @When("^selecciono en la pantalla principal la categoria muebles$")
-    public void selecciono_en_la_pantalla_principal_la_categoria_muebles(String producto) {
-        actor.attemptsTo(BuscarProducto.enDekosas(producto));
-    }
-
-    @Then("^visualizo todos los productos de la categoria en Dekosas $")
-    public void visualizo_todos_los_productos_de_la_categoria_en_Dekosas() {
-        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.BTN_MUEBLES)));
-    }
-}
-```
-### Caracteriscticas de la automatización (feature)
-
-Se crea un archivo con nombre ``` DekosasBuscador``` y con extensión ```.feature``` donde se describen las siguientes características de la prueba. 
-
-``` Feature: ```  nombre de la funcionalidad de la prueba. Con el caso de usuario que se va a probar 
-``` Scenario: ``` se realiza para especificar la funcionalidad la búsqueda de productos 
-``` Given: ```  se describe el contexto, las precondiciones.
-``` When: ```  se especifican las acciones que se van a ejecutar.
-``` Then: ```  y acá se especifica el resultado esperado, las validaciones a realizar.
-
-```feature
-Feature: HU-001 Buscador Dekosas
-  Yo como usuario en la pagina web Dekosas
-  Quiero buscar los productos en la plataforma
-  Para ver las caracteristicas de los producto
-
-  Scenario Outline: Buscar productos
-    Given que me encuentro en la pagina Dekosas
-    When busque el producto <NombreProducto>
-    Then podre ver <NombreProducto> en pantalla
-
-    Examples:
-      |NombreProducto|
-      |Separador De Yemas Greenf - DKS Worldwide|
-      |Set de Desayuno - Snoopy|
-      |Raqueta Niña Talla 23 - Zoom Sports|
-      |Portavasos Silueta Navidad – Mulikka|
-      |Mesa Plegable Madera - Tramontina|
-      |Retablo Bat Man - Decasa|
-
-```
-```feature
-Feature: HU-002 Agregar al carrito
-  Yo como usuario de Dekosas
-  quiero buscar un producto en la pagina Dekosas
-  para agregarlo al carrito de compras
-
-  Background:
-    Given Dado que me encuentro en la pagina
-
-  Scenario: Seleccionar el producto a buscar
-    When seleccione el producto que quiero encontrar "Retablo Bat Man - Decasa"
-    Then vemos producto "Retablo Bat Man - Decasa" el producto al carrito de compras
-
-  Scenario: Seleccionar la categoria de muebles
-    When selecciono en la pantalla principal la categoria muebles
-    Then visualizo todos los productos de la categoria en Dekosas
-```
-```feature
-Feature: HU-002 Escenarios Exitosos y fallidos Dekosas
-  Yo como usuario de Dekosas
-  quiero buscar un producto que este
-  disponiple  y agotado
-
-  Background:
-    Given Me encuentro en la pagina de Dekosas
-
-  Scenario: Buscar producto disponible
-    When busco el nombre del producto "Juego De Habilidad Jenga - Landik" disponible en la pagina
-    Then visualizo detalles del producto "Juego De Habilidad Jenga - Landik" en pantalla
-  Scenario: Buscar producto no disponibles
-    When busco el nombre del producto " Zapato Ruedas Talla 29 - Minions"que no esta en la pagina
-    Then visualizo "Zapato Ruedas Talla 29 - Minions" no disponible
-```
-```feature
-Feature: HU-003 Escenarios Exitosos y fallidos Dekosas
-  Yo como usuario de Dekosas
-  quiero buscar un producto que este
-  disponiple  y agotado
-
-  Background:
-    Given Me encuentro en la pagina de Dekosas
-
-  Scenario: Buscar producto disponible
-    When busco el nombre del producto "Juego De Habilidad Jenga - Landik" disponible en la pagina
-    Then visualizo detalles del producto "Juego De Habilidad Jenga - Landik" en pantalla
-  Scenario: Buscar producto no disponibles
-    When busco el nombre del producto " Zapato Ruedas Talla 29 - Minions"que no esta en la pagina
-    Then visualizo "Zapato Ruedas Talla 29 - Minions" no disponible
-```
 
 ## Ejecución 💻
 
-Después de realizar la codificación que se explicó anteriormente se  _ejecutar_ el proyecto en desde la clase **DekosasBuscadorRunner.java**, donde se definió los siguientes parámetros:
+Después de realizar la codificación que se explicó anteriormente se  _ejecutar_ el proyecto en desde las clases **DekosasBuscadorRunner.java** para el punto 1, **DekosasRunnerH2.java** para el punto 2 y **DekosasRunnerH3.java** para el punto 2, donde se definió los siguientes parámetros:
 
 * @RunWith :  Es el runner de cucumber con serenity ejecutará todas las funciones que se encuentran en la ruta de clase en el mismo paquete que esta clase.
 
@@ -300,6 +300,9 @@ Después de realizar la codificación que se explicó anteriormente se  _ejecuta
 	* features: Se coloca la dirección con la ubicar del archivo de características en la carpeta del proyecto.
 	* glue: Es muy parecido a la opción anterior, pero la diferencia es que ayuda a Cucumber a localizar el archivo con la **definición de pasos**. Para este proyecto es la clase **stepsDefinitions**.
 	* snippets: Es el formato de los fragmentos del código que genera Cucumber, para este caso se elige le tipo CAMELCASE.
+
+
+Dentro de la clase ``` DekosasBuscadorRunner.java``` especificaremos los pasos para la ejecución del punto 1
 
 ``` java
 @RunWith(CucumberWithSerenity.class)
@@ -313,6 +316,8 @@ public class DekosasBuscadorRunner {
 
 ```
 
+Dentro de la clase ``` DekosasRunnerH2.java``` especificaremos los pasos para la ejecución del punto 2
+
 ``` java
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
@@ -323,8 +328,8 @@ public class DekosasBuscadorRunner {
 public class DekosasRunnerH2 {
 }
 
-
 ```
+Dentro de la clase ``` DekosasRunnerH3.java``` especificaremos los pasos para la ejecución del punto 3
 
 ``` java
 @RunWith(CucumberWithSerenity.class)
