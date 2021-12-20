@@ -9,7 +9,7 @@ _En esta sección encontrara los pasos básicos para el desarrollo del proyecto_
 
 * Se crea un proyecto **Gradle** en el entorno de desarrollo.
 
-* Para este proyecto se crearán paquetes y directorios para la automatización. Comencemos creando cuatro paquetes en nuestro directorio **main/java** para los drivers del navegador, leer el archivo de Excel, los elementos que se utilizaran de la página y los pasos que se automatizaran en la página Dekosas.
+* Para este proyecto se crearán paquetes y directorios para la automatización. Comencemos creando cuatro paquetes en nuestro directorio **main/java** para los drivers del navegador, los elementos que se utilizaran de la página **tasks** y los pasos que se automatizaran en la página Dekosas **uis** (Diseño de interfaz de usuario).
 
 ![src](https://github.com/KaJuCave/imagenesDekosas/blob/master/src.PNG)
 
@@ -19,7 +19,7 @@ Dentro del fichero **test/java** se creara los paquetes para las clase de ejecuc
 
 Por último en el directorio **resources** se creara la clase con la extensión **.feature**, la cual contiene la descripción de prueba que se va a ejecutar.
 
-![resourse](https://github.com/KaJuCave/imagenesDekosas/blob/master/resourse.PNG)
+![resourse](https://github.com/KaJuCave/imagenesDekosas/blob/master/features.PNG)
 
 _Nota: En las siguientes secciones se explicarán con más detalle la codificación de cada una de sus clases_ 
 
@@ -74,50 +74,6 @@ test {
 gradle.startParameter.continueOnFailure = true
 
 ```
-### Archivo Excel
-
-Para este proyecto se necesita leer los nombres de cada uno de los productos elegidos en la página por medio de un archivo Excel, por tal razón se implementó la clase ```Excel.java``` y el siguiente método ```leerDatosDeHojaDeExcel ``` el cual recibe como parámetro dos datos: ```String rutaDeExcel``` se especifica la ruta del archivo Excel con extension .xlsx (el cual se agregó en pasos anteriores) y  el segundo ```String hojaDeExcel``` se refiere al nombre de la hoja del archivo Excel donde se guardaron los nombres de los productos.
-Al finalizar los procesos de este método nos retorna una lista con los datos encontrados y solicitados del archivo Excel. 
-
-
-```java
-public class Excel {
-
-    public static <rutaDeExcel, hojaExcel> ArrayList<Map<String, String>> leerDatosDeHojaDeExcel( String rutaDeExcel, String hojaDeExcel) throws IOException {
-        ArrayList<Map<String, String>> arrayListDatoPlanTrabajo = new ArrayList<Map<String, String>>();
-        Map<String, String> informacionProyecto = new HashMap<String, String>();
-        File file = new File(rutaDeExcel);
-        FileInputStream inputStream = new FileInputStream(file);
-        XSSFWorkbook newWorkbook = new XSSFWorkbook(inputStream);
-        XSSFSheet newSheet = newWorkbook.getSheet(hojaDeExcel);
-        Iterator<Row> rowIterator = newSheet.iterator();
-        Row titulos = rowIterator.next();
-        while (rowIterator.hasNext()) {
-            Row row = rowIterator.next();
-            Iterator<Cell> cellIterator = row.cellIterator();
-            while (cellIterator.hasNext()) {
-                Cell cell = cellIterator.next();
-                cell.getColumnIndex();
-                switch (cell.getCellTypeEnum()) {
-                    case STRING:
-                        informacionProyecto.put(titulos.getCell(cell.getColumnIndex()).toString(), cell.getStringCellValue());
-                        break;
-                    case NUMERIC:
-                        informacionProyecto.put(titulos.getCell(cell.getColumnIndex()).toString(), String.valueOf((long) cell.getNumericCellValue()));
-                        break;
-                    case BLANK:
-                        informacionProyecto.put(titulos.getCell(cell.getColumnIndex()).toString(), "");
-                        break;
-                    default:
-                }
-            }
-            arrayListDatoPlanTrabajo.add(informacionProyecto);
-            informacionProyecto = new HashMap<String, String>();
-        }
-        return arrayListDatoPlanTrabajo;
-    }
-}
-```
 ### Características ChromeDriver
 
 Para este proyecto se utilizará el navegador **Google Chrome**, por esto creamos unos drivers que nos permitirán utilizar este navegador. Para realizar se creó la clase ```GoogleChromeDriver.java``` y se instanció un objeto de la interfaz **WebDriver** 
@@ -150,68 +106,107 @@ public class GoogleChromeDriver {
 Como la página que utilizamos para la automatización es [Dekosas.com](https://dekosas.com/co/) creamos una clase ```DekosasPage.java ``` en la cual creamos como atributos de la clase **By** los botones y los textos de los elementos a buscar en la página.
 
 ```java
-By txtBuscador 
-By btnBuscador 
-By btnElementoBusqueda
-By txtElementoBusqueda
-```
-De estos atributos inicializamos a ```txtBuscador ``` ``` btnBuscador``` con los respectivos **Xpath** que nos permitirán encontrar la barra de búsqueda y escribir el producto en la página.
+public class DekosasPage {
 
-```java
-By txtBuscador = By.xpath("//input[@id='search' and @name='q']");
-By btnBuscador = By.xpath("//button[@class='amsearch-loupe' and @title='Buscar']");
+        public static final Target TXT_BUSCADOR = Target.the("").locatedBy("//input[@id='search' and @name='q']");
+        public static final Target BTN_BUSCADOR = Target.the("").locatedBy("//button[@class='amsearch-loupe' and @title='Buscar']");
+        public static final Target BTN_ELEMENTO_BUSQUEDA = Target.the("").locatedBy("//a[contains(text(),'{0}')]");
+        public static final Target TXT_ELEMENTO_BUSQUEDA = Target.the("").locatedBy("//span[contains(text(),'{0}')]");
+        public static final Target BTN_CARRITO = Target.the("").locatedBy("//button[@class='action primary tocart' and @title='Agregar al Carrito']");
+        public static final Target LB_CARRITO = Target.the("").locatedBy("//div[@data-bind='html: message.text']");
+        public static final Target BTN_MUEBLES = Target.the("").locatedBy("//a[@class='level-top' and @href='https://dekosas.com/co/muebles-accesorios']");
+}
 ```
-Por último, se crean los ``` Getter ``` de todos los atributos, pero en los ``` Setter ``` solo los de ``` btnElementoBusqueda ``` y ``` txtElementoBusqueda``` se inicalizan como se muestra a continuación 
-```java
-public void setBtnElementoBusqueda(String producto) {
-        this.btnElementoBusqueda = By.xpath("//a[contains(text(),'"+producto+"')]");
-    }
 
-    public void setTxtElementoBusqueda(String producto) {
-        this.txtElementoBusqueda = By.xpath("//span[contains(text(),'"+producto+"')]");
-    }
-
-```
 **DekosasSteps**
 
-Dentro de la clase ``` DekosasSteps.java``` especificaremos los pasos que la página realizara en la automatización. Para comenzar debemos instanciar objetos de las clases ``` DekosasPage```, ``` Excel``` y ``` ArrayList``` que contiene los datos del Excel. 
+Dentro de la clase ``` DekosasSteps.java``` especificaremos los pasos que la página realizara en la automatización. 
 
 ```java
-DekosasPage dekosasPage = new DekosasPage();
-Excel excelarchivo= new Excel();
-ArrayList<Map<String, String>> datosExcel;
+Public class DekosasStepsDefinitions {
 
+    Actor actor = new Actor("Juliana");
+
+    @Given("^que me encuentro en la pagina Dekosas$")
+    public void queMeEncuentroEnLaPaginaDekosas() {
+        actor.can(BrowseTheWeb.with(GoogleChromeDriver.chromeHisBrowserWeb().on("https://dekosas.com/co/")));
+    }
+
+    @When("^busque el producto (.*)$")
+    public void busqueElProductoSeparadorDeYemasGreenfDKSWorldwide(String producto) {
+        actor.attemptsTo(BuscarProducto.enDekosas(producto));
+    }
+
+    @Then("^podre ver (.*) en pantalla$")
+    public void podreVerSeparadorDeYemasGreenfDKSWorldwideEnPantalla(String producto) {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto)), WebElementStateMatchers.containsText(producto)));
+    }
+}
 ```
-En los siguientes métodos se especifican los pasos que realizara el navegador en la automatización
 
 ```java
-public void abrirPagina(){
-        GoogleChromeDriver.chomeWebDriver("https://dekosas.com/co/");
+public class DekosasEscenariosStepsDefinitions {
+    Actor actor = new Actor("Juliana");
+
+    @Given("^Me encuentro en la pagina de Dekosas$")
+    public void me_encuentro_en_la_pagina_de_Dekosas() {
+        actor.can(BrowseTheWeb.with(GoogleChromeDriver.chromeHisBrowserWeb().on("https://dekosas.com/co/")));    }
+
+
+    @When("^busco el nombre del producto \"([^\"]*)\" disponible en la pagina$")
+    public void busco_el_nombre_del_producto_disponible_en_la_pagina(String producto) {
+        actor.attemptsTo(DekosasCarrito.enDekosas(producto));
     }
 
-    public void leerProductosDekosasExcel() {
-        try {
-            datosExcel = Excel.leerDatosDeHojaDeExcel("retoDekosas.xlsx","Productos");
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
+    @Then("^visualizo detalles del producto \"([^\"]*)\" en pantalla$")
+    public void visualizo_detalles_del_producto_en_pantalla(String producto) {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto))));
     }
 
-    public void validarElementoEnPantalla(){
-        for (int i = 0; i <= datosExcel.size()-1; i++) {
-            GoogleChromeDriver.driver.findElement(dekosasPage.getTxtBuscador()).sendKeys(datosExcel.get(i).get("Nombre Producto"));
-            GoogleChromeDriver.driver.findElement(dekosasPage.getTxtBuscador()).sendKeys(Keys.ENTER);
-            dekosasPage.setBtnElementoBusqueda(datosExcel.get(i).get("Nombre Producto"));
-            GoogleChromeDriver.driver.findElement(dekosasPage.getBtnElementoBusqueda()).click();
-            dekosasPage.setTxtElementoBusqueda(datosExcel.get(i).get("Nombre Producto"));
-            Assert.assertEquals(datosExcel.get(i).get("Nombre Producto"), GoogleChromeDriver.driver.findElement(dekosasPage.getTxtElementoBusqueda()).getText());
-        }
+    @When("^busco el nombre del producto \"([^\"]*)\"que no esta en la pagina$")
+    public void busco_el_nombre_del_producto_que_no_esta_en_la_pagina(String producto) {
+        actor.attemptsTo(DekosasCarrito.enDekosas(producto));
     }
 
-    public void cerrarNavegador(){
-        GoogleChromeDriver.driver.quit();
+    @Then("^visualizo \"([^\"]*)\" no disponible$")
+    public void visualizo_no_disponible(String producto) {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto))));
     }
+
+}
+```
+
+```java
+public class DekosasCarritoStepsDefinitions {
+
+    Actor actor = new Actor("Juliana");
+
+    @Given("^Dado que me encuentro en la pagina$")
+    public void dadoQueMeEncuentroEnLaPagina() {
+        actor.can(BrowseTheWeb.with(GoogleChromeDriver.chromeHisBrowserWeb().on("https://dekosas.com/co/")));
+    }
+
+    @When("^seleccione el producto que quiero encontrar \"([^\"]*)\"$")
+    public void seleccioneElProductoQueQuieroEncontrar(String producto) {
+        actor.attemptsTo(BuscarProducto.enDekosas(producto));
+
+    }
+    @Then("^vemos producto \"([^\"]*)\" el producto al carrito de compras$")
+    public void vemos_producto_el_producto_al_carrito_de_compras(String producto) {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.TXT_ELEMENTO_BUSQUEDA.of(producto))));
+    }
+    
+    @When("^selecciono en la pantalla principal la categoria muebles$")
+    public void selecciono_en_la_pantalla_principal_la_categoria_muebles(String producto) {
+        actor.attemptsTo(BuscarProducto.enDekosas(producto));
+    }
+
+    @Then("^visualizo todos los productos de la categoria en Dekosas $")
+    public void visualizo_todos_los_productos_de_la_categoria_en_Dekosas() {
+        actor.should(GivenWhenThen.seeThat(WebElementQuestion.the(DekosasPage.BTN_MUEBLES)));
+    }
+}
 ```
 ### Caracteriscticas de la automatización (feature)
 
@@ -229,39 +224,69 @@ Feature: HU-001 Buscador Dekosas
   Quiero buscar los productos en la plataforma
   Para ver las caracteristicas de los producto
 
-  Scenario: Buscar productos
-    Given me encuentro en la pagina web Dekosas
-    When busque los productos
-    Then puedo ver los productos en pantalla
+  Scenario Outline: Buscar productos
+    Given que me encuentro en la pagina Dekosas
+    When busque el producto <NombreProducto>
+    Then podre ver <NombreProducto> en pantalla
+
+    Examples:
+      |NombreProducto|
+      |Separador De Yemas Greenf - DKS Worldwide|
+      |Set de Desayuno - Snoopy|
+      |Raqueta Niña Talla 23 - Zoom Sports|
+      |Portavasos Silueta Navidad – Mulikka|
+      |Mesa Plegable Madera - Tramontina|
+      |Retablo Bat Man - Decasa|
 
 ```
-### Definición de los pasos (Steps Definitions)
+```feature
+Feature: HU-002 Agregar al carrito
+  Yo como usuario de Dekosas
+  quiero buscar un producto en la pagina Dekosas
+  para agregarlo al carrito de compras
 
-Después de ejecutar por primera vez se crean los métodos ``` Given ``` ,``` When ```, ``` Then```  del proyecto. Estos métodos los implementamos en la clase ``` DekosaStepsDefinitions.java``` seguidamente se instancia un objeto de la clase ``` DekosasSteps ``` 
+  Background:
+    Given Dado que me encuentro en la pagina
 
-``` java
-DekosasSteps dekosasSteps = new DekosasSteps();
+  Scenario: Seleccionar el producto a buscar
+    When seleccione el producto que quiero encontrar "Retablo Bat Man - Decasa"
+    Then vemos producto "Retablo Bat Man - Decasa" el producto al carrito de compras
+
+  Scenario: Seleccionar la categoria de muebles
+    When selecciono en la pantalla principal la categoria muebles
+    Then visualizo todos los productos de la categoria en Dekosas
 ```
+```feature
+Feature: HU-002 Escenarios Exitosos y fallidos Dekosas
+  Yo como usuario de Dekosas
+  quiero buscar un producto que este
+  disponiple  y agotado
 
-Lo que faltaría en los métodos anteriores llamar los métodos que contiene los pasos para la automatización como abrir el navegador, leer los productos que están guardados en el archivo de Excel, validar los productos encontrados en pantalla y por último cerrar el navegador cuando la automatización finalice de forma exitosa.
+  Background:
+    Given Me encuentro en la pagina de Dekosas
 
-```java
+  Scenario: Buscar producto disponible
+    When busco el nombre del producto "Juego De Habilidad Jenga - Landik" disponible en la pagina
+    Then visualizo detalles del producto "Juego De Habilidad Jenga - Landik" en pantalla
+  Scenario: Buscar producto no disponibles
+    When busco el nombre del producto " Zapato Ruedas Talla 29 - Minions"que no esta en la pagina
+    Then visualizo "Zapato Ruedas Talla 29 - Minions" no disponible
+```
+```feature
+Feature: HU-003 Escenarios Exitosos y fallidos Dekosas
+  Yo como usuario de Dekosas
+  quiero buscar un producto que este
+  disponiple  y agotado
 
-    @Given("^me encuentro en la pagina web Dekosas$")
-    public void meEncuentroEnLaPaginaWebDekosas() {
-        dekosasSteps.abrirPagina();
+  Background:
+    Given Me encuentro en la pagina de Dekosas
 
-    }
-    @When("^busque los productos$")
-    public void busqueLosProductos() {
-        dekosasSteps.leerProductosDekosasExcel();
-    }
-
-    @Then("^puedo ver los productos en pantalla$")
-    public void puedoVerLosProductosEnPantalla() {
-        dekosasSteps.validarElementoEnPantalla();
-        dekosasSteps.cerrarNavegador();
-    }
+  Scenario: Buscar producto disponible
+    When busco el nombre del producto "Juego De Habilidad Jenga - Landik" disponible en la pagina
+    Then visualizo detalles del producto "Juego De Habilidad Jenga - Landik" en pantalla
+  Scenario: Buscar producto no disponibles
+    When busco el nombre del producto " Zapato Ruedas Talla 29 - Minions"que no esta en la pagina
+    Then visualizo "Zapato Ruedas Talla 29 - Minions" no disponible
 ```
 
 ## Ejecución 💻
@@ -284,6 +309,31 @@ Después de realizar la codificación que se explicó anteriormente se  _ejecuta
         snippets = SnippetType.CAMELCASE
 )
 public class DekosasBuscadorRunner {
+}
+
+```
+
+``` java
+@RunWith(CucumberWithSerenity.class)
+@CucumberOptions(
+        features = "src\\test\\resources\\features\\DekosasCarrito.feature",
+        glue = "stepsDefinitions",
+        snippets = SnippetType.CAMELCASE
+)
+public class DekosasRunnerH2 {
+}
+
+
+```
+
+``` java
+@RunWith(CucumberWithSerenity.class)
+@CucumberOptions(
+        features = "src\\test\\resources\\features\\DekosasEscenarios.feature",
+        glue = "stepsDefinitions",
+        snippets = SnippetType.CAMELCASE
+)
+public class DekosasRunnerH3 {
 }
 
 ```
